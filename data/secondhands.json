@@ -1,0 +1,3578 @@
+{
+  "lviv": [
+    {
+      "address": "вул. Базарна, 8",
+      "maps_url": "https://goo.gl/maps/3531PUV8KWZEibVN6",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 49.8456502,
+      "lng": 24.0186769
+    },
+    {
+      "address": "вул. Богдана Хмельницького, 214",
+      "maps_url": "https://maps.app.goo.gl/xagpxS2c2QV4UMMe9",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 49.8695745,
+      "lng": 24.0575087
+    },
+    {
+      "address": "вул. Валова, 13",
+      "maps_url": "https://goo.gl/maps/N386netoEJuHHuYo6",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 49.839948,
+      "lng": 24.0307109
+    },
+    {
+      "address": "вул. Виговського, 49",
+      "maps_url": "https://goo.gl/maps/HgfxA4gPtqbqaYrJ7",
+      "update_day": "П'ятниця",
+      "update_note": "",
+      "lat": 49.8157306,
+      "lng": 23.9717168
+    },
+    {
+      "address": "вул. Володимира Великого, 26A",
+      "maps_url": "https://goo.gl/maps/bFECpNFMmvqdVp2h7",
+      "update_day": "П'ятниця",
+      "update_note": "",
+      "lat": 49.8157605,
+      "lng": 23.9563959
+    },
+    {
+      "address": "вул. Володимира Великого, 34",
+      "maps_url": "https://goo.gl/maps/jpFZhLzHTnF75J1cA",
+      "update_day": "Четвер",
+      "update_note": "раз в два тижні",
+      "lat": 49.8112707,
+      "lng": 23.9237488
+    },
+    {
+      "address": "вул. Володимира Великого, 51",
+      "maps_url": "https://goo.gl/maps/FCjYKZaPTjDxX71m8",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.8097962,
+      "lng": 24.0022442
+    },
+    {
+      "address": "вул. Володимира Великого, 59А",
+      "maps_url": "https://goo.gl/maps/EsTUmoD4eQjMGeUk7",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.80812,
+      "lng": 23.9988691
+    },
+    {
+      "address": "вул. Володимира Великого, 59А",
+      "maps_url": "https://goo.gl/maps/sAZKNt3wizHBzg3H7",
+      "update_day": "П'ятниця",
+      "update_note": "",
+      "lat": 49.8082902,
+      "lng": 23.9996272
+    },
+    {
+      "address": "вул. Галицька, 18 (Винники)",
+      "maps_url": "https://goo.gl/maps/XgkoYoqr1D8iYkMw6",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.8168726,
+      "lng": 24.1373767
+    },
+    {
+      "address": "вул. Героїв УПА, 73",
+      "maps_url": "https://goo.gl/maps/txGdVMjPMJjNtUvF8",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 49.8283247,
+      "lng": 23.9906204
+    },
+    {
+      "address": "вул. Гетьмана Мазепи, 11б",
+      "maps_url": "https://goo.gl/maps/BpGnytxwjDcRcXeC8",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.870962,
+      "lng": 24.0325217
+    },
+    {
+      "address": "вул. Городоцька, 45",
+      "maps_url": "https://goo.gl/maps/DPogYpDAsYwGgURb6",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.8423965,
+      "lng": 24.0192139
+    },
+    {
+      "address": "вул. Городоцька, 67",
+      "maps_url": "https://goo.gl/maps/3RxC8MvwDVv7LK5R7",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.8417823,
+      "lng": 24.016124
+    },
+    {
+      "address": "вул. Горської, 5а",
+      "maps_url": "https://goo.gl/maps/MKXtpMQdkbTd1HhF6",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 49.8360271,
+      "lng": 24.0014355
+    },
+    {
+      "address": "вул. Драгана, 4",
+      "maps_url": "https://goo.gl/maps/itQJwnEK4uqkH4T18",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 49.785197,
+      "lng": 24.0550053
+    },
+    {
+      "address": "вул. Івана Кавалерідзе, 6",
+      "maps_url": "https://goo.gl/maps/vWUd4cbL8phNqoS99",
+      "update_day": "Субота",
+      "update_note": "раз в два тижні",
+      "lat": 49.7922649,
+      "lng": 24.0622873
+    },
+    {
+      "address": "вул. Княгині Ольги, 114 (ринок \"Провесінь\")",
+      "maps_url": "https://goo.gl/maps/yL2KMciefpgvrZFs7",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 49.8077339,
+      "lng": 23.9962384
+    },
+    {
+      "address": "вул. Котлярська, 6",
+      "maps_url": "https://goo.gl/maps/cWpJS3cZosUiCtrM9",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.8452173,
+      "lng": 24.0230858
+    },
+    {
+      "address": "вул. Любінська, 102",
+      "maps_url": "https://goo.gl/maps/BM6XTrMPtmXjDmco9",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 49.8221223,
+      "lng": 23.9369543
+    },
+    {
+      "address": "вул. Любінська, 120",
+      "maps_url": "https://goo.gl/maps/r2Zo3dLWR8G1zkFCA",
+      "update_day": "Четвер",
+      "update_note": "раз в два тижні",
+      "lat": 49.8211044,
+      "lng": 23.9690708
+    },
+    {
+      "address": "вул. Мазепи, 26",
+      "maps_url": "https://goo.gl/maps/KgEPqPGiBpLSdVZNA",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.8714121,
+      "lng": 24.0407859
+    },
+    {
+      "address": "вул. Медової Печери, 1",
+      "maps_url": "https://goo.gl/maps/a7rLCVKQuGVtPwjw7",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.8270713,
+      "lng": 24.073066
+    },
+    {
+      "address": "вул. Наукова, 45",
+      "maps_url": "https://goo.gl/maps/XNSf6ExSJUDG6bFX7",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.8041581,
+      "lng": 23.9732552
+    },
+    {
+      "address": "вул. Наукова, 49а",
+      "maps_url": "https://goo.gl/maps/XYVSceycMVBFHwsk9",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 49.8043171,
+      "lng": 23.9846271
+    },
+    {
+      "address": "вул. Наукова, 51",
+      "maps_url": "https://goo.gl/maps/7WZJRfw7iV3wZQDE9",
+      "update_day": "Четвер",
+      "update_note": "раз в два тижні",
+      "lat": 49.804262,
+      "lng": 23.9856315
+    },
+    {
+      "address": "вул. Наукова, 64А",
+      "maps_url": "https://goo.gl/maps/xwjZifUwvEFFgcBm9",
+      "update_day": "П'ятниця",
+      "update_note": "раз в два тижні",
+      "lat": 49.8048574,
+      "lng": 23.9908804
+    },
+    {
+      "address": "вул. Олександра Довженка, 4",
+      "maps_url": "https://maps.app.goo.gl/y4rXvqdFVApDnMn27",
+      "update_day": "Оновлення рідко",
+      "update_note": "",
+      "lat": 49.7971972,
+      "lng": 24.0541566
+    },
+    {
+      "address": "вул. Пасічна, 51",
+      "maps_url": "https://goo.gl/maps/KjPKKR8w4s3rWoHc7",
+      "update_day": "Середа",
+      "update_note": "раз в два тижні",
+      "lat": 49.8278775,
+      "lng": 24.0687837
+    },
+    {
+      "address": "вул. Пасічна, 53",
+      "maps_url": "https://goo.gl/maps/Sv53hH3BwiUygUAWA",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.8271884,
+      "lng": 24.0699208
+    },
+    {
+      "address": "вул. Патона, 2/2",
+      "maps_url": "https://maps.app.goo.gl/9GEiLF7UuWf6JmyNA",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.8230714,
+      "lng": 23.9650718
+    },
+    {
+      "address": "вул. Петра Дорошенка, 1 (2 поверх)",
+      "maps_url": "https://goo.gl/maps/yA5nMvUSzL3B35eg7",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 49.8402187,
+      "lng": 24.0253315
+    },
+    {
+      "address": "вул. Симона Петлюри, 2А",
+      "maps_url": "https://goo.gl/maps/AwPAktm4xgaSCjCC6",
+      "update_day": "Четвер",
+      "update_note": "раз в два тижні",
+      "lat": 49.8219,
+      "lng": 23.9787
+    },
+    {
+      "address": "вул. Симона Петлюри, 3",
+      "maps_url": "https://maps.app.goo.gl/kD77y8swc4CBPM7VA?g_st=ic",
+      "update_day": "Вівторок",
+      "update_note": ""
+    },
+    {
+      "address": "вул. Сихівська, 13",
+      "maps_url": "https://goo.gl/maps/u9LTpqJeJtYtpYCY8",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.821864,
+      "lng": 23.891204
+    },
+    {
+      "address": "вул. Сихівська, 18 (2 поверх)",
+      "maps_url": "https://goo.gl/maps/aAdmYxowoQGwdkVLA",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 49.8171724,
+      "lng": 24.0117575
+    },
+    {
+      "address": "вул. Словацького, 14",
+      "maps_url": "https://goo.gl/maps/gLsiv2fprXMui6BFA",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 49.8384418,
+      "lng": 24.0229168
+    },
+    {
+      "address": "вул. Смаль-Стоцького, 1",
+      "maps_url": "https://goo.gl/maps/VBzsbVEkUwsJY22QA",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 49.8344231,
+      "lng": 23.9947097
+    },
+    {
+      "address": "вул. Стрийська, 45",
+      "maps_url": "https://goo.gl/maps/9R2USTytFBekywGJ7",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 49.8078958,
+      "lng": 24.0188357
+    },
+    {
+      "address": "вул. Стрийська, 57",
+      "maps_url": "https://goo.gl/maps/Ti3A5ap9N9cmvhaH6",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 49.7983488,
+      "lng": 24.0181129
+    },
+    {
+      "address": "вул. Цехова, 1",
+      "maps_url": "https://goo.gl/maps/Khvyvzv456BziiQk8",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 49.8491807,
+      "lng": 24.0237974
+    },
+    {
+      "address": "вул. Широка, 29",
+      "maps_url": "https://goo.gl/maps/56ocd8P1TDaFmF4u9",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.8419064,
+      "lng": 23.9755424
+    },
+    {
+      "address": "вул. Широка, 70б",
+      "maps_url": "https://goo.gl/maps/tFZzz9chmNUX3RvN7",
+      "update_day": "Пʼятниця",
+      "update_note": "раз в два тижні",
+      "lat": 49.8422026,
+      "lng": 23.9588522
+    },
+    {
+      "address": "вул. Широка, 81",
+      "maps_url": "https://goo.gl/maps/esPXKqin8LQDKDoKA",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.8414355,
+      "lng": 23.9668917
+    },
+    {
+      "address": "вул. Широка, 81А (2 поверх)",
+      "maps_url": "https://goo.gl/maps/sXoBnLBLWg5FDQdh9",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 49.8413901,
+      "lng": 23.9665768
+    },
+    {
+      "address": "вул. Шолом Алейхема, 20",
+      "maps_url": "https://goo.gl/maps/n419HW81PkQTuyuS8",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.8449171,
+      "lng": 24.0201424
+    },
+    {
+      "address": "вул. Шота Руставелі, 42",
+      "maps_url": "https://goo.gl/maps/fafw8FKwt5mNUA9R8",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 49.8299094,
+      "lng": 24.0319897
+    },
+    {
+      "address": "вул. Шпитальна, 11",
+      "maps_url": "https://goo.gl/maps/yV6yHp7ftihWDoaGA",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 49.8446673,
+      "lng": 24.0226026
+    },
+    {
+      "address": "пл. Липнева, 6",
+      "maps_url": "https://goo.gl/maps/VHTkxM9qxx3qJ6k36",
+      "update_day": "Четвер",
+      "update_note": "раз в два тижні",
+      "lat": 49.8340903,
+      "lng": 24.0024235
+    },
+    {
+      "address": "пл. Соборна, 5",
+      "maps_url": "https://goo.gl/maps/6PVpGEarVRPNTEmP7",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.8387847,
+      "lng": 24.0355365
+    },
+    {
+      "address": "пр. В'ячеслава Чорновола, 45",
+      "maps_url": "https://goo.gl/maps/g17PxeXvtxo6fCqz5",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 49.854832,
+      "lng": 24.0214497
+    },
+    {
+      "address": "пр. В'ячеслава Чорновола, 57",
+      "maps_url": "https://goo.gl/maps/5DpAMrNCUdAViq9r6",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 49.8561181,
+      "lng": 24.0213312
+    },
+    {
+      "address": "пр. В'ячеслава Чорновола, 95",
+      "maps_url": "https://goo.gl/maps/Pcw5KUz7526aoEgf7",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 49.8632845,
+      "lng": 24.0145279
+    },
+    {
+      "address": "пр. Червоної Калини, 105",
+      "maps_url": "https://goo.gl/maps/dA3mqn4cymronmPS8",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 49.7856173,
+      "lng": 24.0542168
+    },
+    {
+      "address": "пр. Червоної Калини, 59",
+      "maps_url": "https://goo.gl/maps/27ueUAsmLk4osYJj7",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.7970543,
+      "lng": 24.0514682
+    },
+    {
+      "address": "пр. Червоної Калини, 66А",
+      "maps_url": "https://goo.gl/maps/kxDk72Wo4JJ2mjN99",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 49.7910354,
+      "lng": 24.0559005
+    },
+    {
+      "address": "пр. Червоної Калини, 66А",
+      "maps_url": "https://goo.gl/maps/tVJWcSsUedTQeWiXA",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 49.790731,
+      "lng": 24.0580887
+    },
+    {
+      "address": "пр. Червоної Калини, 109",
+      "maps_url": "https://maps.app.goo.gl/MUbXmGYbM3uXFee2A",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 49.7850531,
+      "lng": 24.0602471
+    }
+  ],
+  "if": [
+    {
+      "address": "вул. Андрія Мельника, 2",
+      "maps_url": "https://maps.app.goo.gl/Kfavc38jfNLuxXGs9",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 48.9187936,
+      "lng": 24.7147259
+    },
+    {
+      "address": "вул. Галицька, 45-47",
+      "maps_url": "https://maps.app.goo.gl/JMz5XwXnE228eeQM7",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 48.9249024,
+      "lng": 24.7094218
+    },
+    {
+      "address": "вул. Заклинських, 59",
+      "maps_url": "https://maps.app.goo.gl/ebqHqfXh2w9eLPt88",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 48.9278558,
+      "lng": 24.7089824
+    },
+    {
+      "address": "вул. Івана Миколайчука, 16А",
+      "maps_url": "https://maps.app.goo.gl/uh8sQ3g2iYdfpDwy9",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 48.9365177,
+      "lng": 24.7493483
+    },
+    {
+      "address": "вул. Любомира Гузара, 49",
+      "maps_url": "https://maps.app.goo.gl/5XdnP2dx96xSaHPF9",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 48.9250322,
+      "lng": 24.7083838
+    },
+    {
+      "address": "вул. Пулюя, 9",
+      "maps_url": "https://maps.app.goo.gl/7MjzQEGJMtXz68889",
+      "update_day": "Оновлення невідомо коли, але рідко",
+      "update_note": "",
+      "lat": 48.9322555,
+      "lng": 24.7031552
+    },
+    {
+      "address": "вул. Січових стрільців, 16",
+      "maps_url": "https://maps.app.goo.gl/bz5XSHa4azV9bq4n7",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 48.9197793,
+      "lng": 24.7072722
+    },
+    {
+      "address": "вул. Січових стрільців, 23",
+      "maps_url": "https://maps.app.goo.gl/9FeuuQQKHtVvqLtMA",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 48.918979,
+      "lng": 24.7104352
+    },
+    {
+      "address": "вул. Тролейбусна, 4",
+      "maps_url": "https://maps.app.goo.gl/n1T1cg4zLjaN3k5g9",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 48.944035,
+      "lng": 24.6994923
+    }
+  ],
+  "kyiv": [
+    {
+      "address": "бульвар Чоколівський, 21",
+      "maps_url": "https://maps.app.goo.gl/UPtXZuEQTbf4do7g9",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 50.4323413,
+      "lng": 30.4542391
+    },
+    {
+      "address": "вул. Авіаконструктора Антонова, 8",
+      "maps_url": "https://maps.app.goo.gl/y5whGwSXqzzTpjg3A",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.432381,
+      "lng": 30.4532424
+    },
+    {
+      "address": "вул. Академіка Єфремова, 8",
+      "maps_url": "https://maps.app.goo.gl/iCXwCvNk5EayfQEJ7",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 50.465315,
+      "lng": 30.354279
+    },
+    {
+      "address": "вул. Академіка Курчатова, 20, 1 поверх",
+      "maps_url": "https://maps.app.goo.gl/cvRDcmuvBkBuDjfP7",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 47.4873964,
+      "lng": 34.651953
+    },
+    {
+      "address": "вул. Амвросія Бучми, 6А",
+      "maps_url": "https://maps.app.goo.gl/4EqR9HmWyK7T11gr6",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 50.4318106,
+      "lng": 30.6029669
+    },
+    {
+      "address": "вул. Андрія Малишка, 2",
+      "maps_url": "https://maps.app.goo.gl/4jJW83tm3b5UNsk47",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4573013,
+      "lng": 30.6122737
+    },
+    {
+      "address": "вул. Андрія Малишка, 3А",
+      "maps_url": "https://maps.app.goo.gl/ENSPiubma6qNkL1u5",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 50.4579838,
+      "lng": 30.6127795
+    },
+    {
+      "address": "вул. Архітектора Ніколаєва, 7",
+      "maps_url": "https://maps.app.goo.gl/Hg5gfU7BDXErMKAs8",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.5069913,
+      "lng": 30.5948288
+    },
+    {
+      "address": "вул. Васильківська, 30",
+      "maps_url": "https://maps.app.goo.gl/y8AWgNTe3wmQJvEy8",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.3938289,
+      "lng": 30.4896763
+    },
+    {
+      "address": "вул. Васильківська, 6",
+      "maps_url": "https://maps.app.goo.gl/CFFjyFsCFJvzNQ9T7",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 50.3970186,
+      "lng": 30.5052083
+    },
+    {
+      "address": "вул. Василя Касіяна, 10Б",
+      "maps_url": "https://maps.app.goo.gl/xigKsUU5hx7uViocA",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.3765801,
+      "lng": 30.4543034
+    },
+    {
+      "address": "вул. Василя Липківського, 18, 2 поверх",
+      "maps_url": "https://maps.app.goo.gl/WPLvhkAvdrg5P9Nf6",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4340369,
+      "lng": 30.4838402
+    },
+    {
+      "address": "вул. Верхній Вал, 16а",
+      "maps_url": "https://maps.app.goo.gl/5Ryb9SPdZFcbcnur9",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4651444,
+      "lng": 30.511407
+    },
+    {
+      "address": "вул. Вишгородська, 16",
+      "maps_url": "https://maps.app.goo.gl/AiZREsixcb3UxRBVA",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.5026137,
+      "lng": 30.4515064
+    },
+    {
+      "address": "вул. Вишгородська, 46",
+      "maps_url": "https://maps.app.goo.gl/hioVk7GNzFpwMDX6A",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 50.5157023,
+      "lng": 30.4494442
+    },
+    {
+      "address": "вул. Генерала Потапова, 1/5",
+      "maps_url": "https://maps.app.goo.gl/1dqAahc6nPppYGzf8",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 50.4249482,
+      "lng": 30.3866252
+    },
+    {
+      "address": "вул. Героїв Дніпра, 34",
+      "maps_url": "https://maps.app.goo.gl/Xf5NJ1AXM7EjQrmr8",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.522376,
+      "lng": 30.5039319
+    },
+    {
+      "address": "вул. Героїв Севастополя, 36/1",
+      "maps_url": "https://maps.app.goo.gl/9yJvhEnU1HXcPDoBA",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 50.4312549,
+      "lng": 30.4215611
+    },
+    {
+      "address": "вул. Григоровича-Барського, 1, 2 поверх",
+      "maps_url": "https://maps.app.goo.gl/5N7tANuY2TjqCfgc9",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4095126,
+      "lng": 30.3913118
+    },
+    {
+      "address": "вул. Данила Щербаківського, 47А",
+      "maps_url": "https://maps.app.goo.gl/762MSUFmpdXedZNx9",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 50.4722751,
+      "lng": 30.4050704
+    },
+    {
+      "address": "вул. Дмитра Луценка, 11",
+      "maps_url": "https://maps.app.goo.gl/VLwVJhsVt9u4d32k6",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 50.3834962,
+      "lng": 30.4448447
+    },
+    {
+      "address": "вул. Івана Миколайчука, 13А",
+      "maps_url": "https://maps.app.goo.gl/LMX6a5cttSXiGiyk8",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 50.4342973,
+      "lng": 30.6039437
+    },
+    {
+      "address": "вул. Маршала Малиновського, 24/10",
+      "maps_url": "https://maps.app.goo.gl/p7hCSsrKKR1XcGod6",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 50.5008751,
+      "lng": 30.5008006
+    },
+    {
+      "address": "вул. Маршала Тимошенка, 13А",
+      "maps_url": "https://maps.app.goo.gl/wnjEYF3Mohx9PXSS7",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.5126725,
+      "lng": 30.4922812
+    },
+    {
+      "address": "вул. Миколи Закревського, 61/2",
+      "maps_url": "https://maps.app.goo.gl/T397SBctkhHtNmFn8",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.5130717,
+      "lng": 30.6231269
+    },
+    {
+      "address": "вул. Миколи Кибальчича, 2А",
+      "maps_url": "https://maps.app.goo.gl/teZuPZeFyAVpham86",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 50.492907,
+      "lng": 30.5991831
+    },
+    {
+      "address": "вул. Михайла Драгоманова, 17",
+      "maps_url": "https://maps.app.goo.gl/mcsMK7thpx8CU5ju5",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4089846,
+      "lng": 30.6399164
+    },
+    {
+      "address": "вул. Михайла Ломоносова, 6",
+      "maps_url": "https://maps.app.goo.gl/NUDXQ9FLiXj7i2Ky7",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 50.3930448,
+      "lng": 30.500875
+    },
+    {
+      "address": "вул. Олександра Архипенка, 2/12",
+      "maps_url": "https://maps.app.goo.gl/T12YWYC8cVFedc2p7",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 50.4954125,
+      "lng": 30.5072701
+    },
+    {
+      "address": "вул. Олександра Мишуги, 2, 2 поверх",
+      "maps_url": "https://maps.app.goo.gl/Zxuw4cfdr9NfPa8TA",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.3982512,
+      "lng": 30.639947
+    },
+    {
+      "address": "вул. Олени Теліги, 35",
+      "maps_url": "https://maps.app.goo.gl/ojRe2bF1tESkHfSG7",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4787953,
+      "lng": 30.4510734
+    },
+    {
+      "address": "вул. Оленівська, 16/60",
+      "maps_url": "https://maps.app.goo.gl/mqiCLNjfJN9KaEJj9",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4720196,
+      "lng": 30.5042723
+    },
+    {
+      "address": "вул. Оноре де Бальзака, 66",
+      "maps_url": "https://maps.app.goo.gl/KW6eKPgd7BHLj8R67",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 50.5192261,
+      "lng": 30.6080252
+    },
+    {
+      "address": "вул. Полуботка, 65",
+      "maps_url": "https://maps.app.goo.gl/YG4hcoPmpm4A1AEh8",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 50.4635595,
+      "lng": 30.6437543
+    },
+    {
+      "address": "вул. Раїси Окіпної, 4-Б",
+      "maps_url": "https://maps.app.goo.gl/fgffz5nLv2JBLVK4A",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4502876,
+      "lng": 30.5937777
+    },
+    {
+      "address": "вул. Рональда Рейгана, 1",
+      "maps_url": "https://maps.app.goo.gl/MNtvt8Q2tmwtWF8N7",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4980445,
+      "lng": 30.6048571
+    },
+    {
+      "address": "вул. Старовокзальна, 19",
+      "maps_url": "https://maps.app.goo.gl/Z42r3t6LrRHeqCLu6",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 50.4445165,
+      "lng": 30.491075
+    },
+    {
+      "address": "вул. Татарська, 27",
+      "maps_url": "https://maps.app.goo.gl/woCEuRP65XSZtAh56",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4677797,
+      "lng": 30.4856498
+    },
+    {
+      "address": "вул. Тулузи, 11",
+      "maps_url": "https://maps.app.goo.gl/jDegHPqfseDUW2s96",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4326797,
+      "lng": 30.3777003
+    },
+    {
+      "address": "вул. Феодори Пушиної, 23",
+      "maps_url": "https://maps.app.goo.gl/t35e5A43oDtouXKH9",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4572112,
+      "lng": 30.3628886
+    },
+    {
+      "address": "вул. Ярослава Івашкевича, 5",
+      "maps_url": "https://maps.app.goo.gl/NQEwHhb8MkrLBoBu8",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 50.5060257,
+      "lng": 30.4560924
+    },
+    {
+      "address": "Петропавлівська Борщагівка, Київська обл.",
+      "maps_url": "https://maps.app.goo.gl/3RaFq8PHhWP4AE9s7",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 50.4299639,
+      "lng": 30.3582523
+    },
+    {
+      "address": "пл. Львівська, 8а",
+      "maps_url": "https://maps.app.goo.gl/TEtUJNQm8L9F7xwn7",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4556872,
+      "lng": 30.5059628
+    },
+    {
+      "address": "пл. Тараса Шевченка, 2",
+      "maps_url": "https://maps.app.goo.gl/EYgdrGcBrV5KTdom6",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 50.5213313,
+      "lng": 30.4492192
+    },
+    {
+      "address": "просп.  Валерія Лобановського, 35",
+      "maps_url": "https://maps.app.goo.gl/ZwsBFn7EhWgHNDaC9",
+      "update_day": "Четвер",
+      "update_note": "раз на два тижні",
+      "lat": 50.4212188,
+      "lng": 30.4702787
+    },
+    {
+      "address": "просп. Академіка Палладіна, 23а",
+      "maps_url": "https://maps.app.goo.gl/rx5Bpa7dX5RPTuVs5",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 50.4664005,
+      "lng": 30.353901
+    },
+    {
+      "address": "просп. Академіка Палладіна, 7а/4",
+      "maps_url": "https://maps.app.goo.gl/aNwcEJ5GqRt4af9WA",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 50.4615644,
+      "lng": 30.3554092
+    },
+    {
+      "address": "просп. Володимира Маяковського, 75/2",
+      "maps_url": "https://maps.app.goo.gl/rsHcMkLHzwqq1PgU7",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 50.5174003,
+      "lng": 30.6165609
+    },
+    {
+      "address": "просп. Георгія Гонгадзе, 20, 2 поверх",
+      "maps_url": "https://maps.app.goo.gl/aySV1pAYGSRfVeno8",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.5121938,
+      "lng": 30.4118757
+    },
+    {
+      "address": "просп. Голосіївський, 104",
+      "maps_url": "https://maps.app.goo.gl/tDLENwYsEBr2kMUe7",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.3888191,
+      "lng": 30.4953026
+    },
+    {
+      "address": "просп. Голосіївський, 15",
+      "maps_url": "https://maps.app.goo.gl/PT2DSgG9VbzocgMf8",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4031334,
+      "lng": 30.5166686
+    },
+    {
+      "address": "просп. Леся Курбаса, 19А",
+      "maps_url": "https://maps.app.goo.gl/aDPrjBNbfs1dPpUP9",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 50.4241853,
+      "lng": 30.3677614
+    },
+    {
+      "address": "просп. Литовський, 4",
+      "maps_url": "https://maps.app.goo.gl/995R5g3uaMGiH9KBA",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.5227675,
+      "lng": 30.4513945
+    },
+    {
+      "address": "просп. Любомира Гузара, 30/28",
+      "maps_url": "https://maps.app.goo.gl/aCkPL8xBnxe6ExJb6",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4380019,
+      "lng": 30.4171654
+    },
+    {
+      "address": "просп. Миколи Бажана, 10",
+      "maps_url": "https://maps.app.goo.gl/b5doN2UCLirSTNkt7",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 50.3949763,
+      "lng": 30.6195241
+    },
+    {
+      "address": "просп. Миколи Бажана, 3",
+      "maps_url": "https://maps.app.goo.gl/Fa4Tue1reZqdDmhf8",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4024242,
+      "lng": 30.6553712
+    },
+    {
+      "address": "просп. Науки, 35, 1 поверї",
+      "maps_url": "https://maps.app.goo.gl/SJ3sKQjJ8eLErod87",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.3926882,
+      "lng": 30.5308769
+    },
+    {
+      "address": "просп. Оболонський, 20",
+      "maps_url": "https://maps.app.goo.gl/cguib2yMFQnACJWi9",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 50.5101275,
+      "lng": 30.4993446
+    },
+    {
+      "address": "просп. Оболонський, 52",
+      "maps_url": "https://maps.app.goo.gl/FAvSeGUp6frvzWFF6",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 50.5258813,
+      "lng": 30.4999659
+    },
+    {
+      "address": "просп. Перемоги, 60",
+      "maps_url": "https://maps.app.goo.gl/j2yBAx46ibMWho9R8",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4570803,
+      "lng": 30.4345182
+    },
+    {
+      "address": "просп. Перемоги, 89А",
+      "maps_url": "https://maps.app.goo.gl/aySCTDAdCbVxu4pu6",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4563808,
+      "lng": 30.3849773
+    },
+    {
+      "address": "просп. Петра Григоренка, 22/20",
+      "maps_url": "https://maps.app.goo.gl/UBAbFu3vtLbovXzb7",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4090242,
+      "lng": 30.6255459
+    },
+    {
+      "address": "просп. Петра Григоренка, 32Д",
+      "maps_url": "https://maps.app.goo.gl/HSbMCa9eWYxXhHd78",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 50.4009959,
+      "lng": 30.6324436
+    },
+    {
+      "address": "просп. Соборності, 8/2",
+      "maps_url": "https://maps.app.goo.gl/y1re4gkCKkPvMpcz8",
+      "update_day": "Субота",
+      "update_note": "оновлення відбувається рідше",
+      "lat": 50.4416204,
+      "lng": 30.6218744
+    },
+    {
+      "address": "просп. Степана Бандери, 6",
+      "maps_url": "https://maps.app.goo.gl/HkuWQJQh9uTVhJoDA",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 50.4884985,
+      "lng": 30.4948216
+    },
+    {
+      "address": "Харківське шосе, 144В",
+      "maps_url": "https://maps.app.goo.gl/QPXTx4SgcqhvpjTR6",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4212654,
+      "lng": 30.6502003
+    },
+    {
+      "address": "Харківське шосе, 8",
+      "maps_url": "https://maps.app.goo.gl/uADAX6CU2mXjRVGc7",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.4387811,
+      "lng": 30.6278244
+    }
+  ],
+  "ternopil": [
+    {
+      "address": "вул. Київська, 11-Б",
+      "maps_url": "https://maps.app.goo.gl/3mivyh9jFFBncUcSA",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 49.560726,
+      "lng": 25.6430279
+    },
+    {
+      "address": "вул. Київська, 9А",
+      "maps_url": "https://maps.app.goo.gl/zn3bj3zU2cZn8LkUA",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.5609933,
+      "lng": 25.6433489
+    },
+    {
+      "address": "вул. Князя Острозького, 12,",
+      "maps_url": "https://maps.app.goo.gl/jTnByyqes1n2ySGq5",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.5496525,
+      "lng": 25.5944368
+    },
+    {
+      "address": "вул. Лесі Українки, 25",
+      "maps_url": "https://maps.app.goo.gl/gJaWjrJWqr9o18aR9",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 49.5445026,
+      "lng": 25.6247778
+    },
+    {
+      "address": "вул. Лесі Українки, 8",
+      "maps_url": "https://maps.app.goo.gl/cgkgSuRV875TPsy69",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.5439117,
+      "lng": 25.6238883
+    },
+    {
+      "address": "вул. Миру, 5",
+      "maps_url": "https://maps.app.goo.gl/3itiDTc55ZEysxsW8",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 49.5459946,
+      "lng": 25.575084
+    },
+    {
+      "address": "вул. Олени Кульчицької, 15",
+      "maps_url": "https://maps.app.goo.gl/mP2rbVb6xhxT7i7t7",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 49.5528099,
+      "lng": 25.5969965
+    },
+    {
+      "address": "вул. Слівенська, 70",
+      "maps_url": "https://maps.app.goo.gl/v6tEMyhbJ5SKqrLV6",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.5497976,
+      "lng": 25.6212557
+    },
+    {
+      "address": "вул. Тарнавського, 38",
+      "maps_url": "https://maps.app.goo.gl/FJP2Zan2wgrht5LY8",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.5674952,
+      "lng": 25.6395844
+    },
+    {
+      "address": "вул. Торговиця, 11",
+      "maps_url": "https://maps.app.goo.gl/NhQ6ALJk1QrjWE9u5",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.5453742,
+      "lng": 25.591174
+    },
+    {
+      "address": "вул. Торговиця, 9",
+      "maps_url": "https://maps.app.goo.gl/A3oYr8qrCfDhhaHUA",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 49.5461109,
+      "lng": 25.5926215
+    },
+    {
+      "address": "вул. Шептицького, 2 (2 поверх)",
+      "maps_url": "https://maps.app.goo.gl/4MqVknpAUkJYWzSW7",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.5381935,
+      "lng": 25.5783423
+    },
+    {
+      "address": "просп. Злуки, 1",
+      "maps_url": "https://maps.app.goo.gl/nSaZ5xHfAfxDTj2h8",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 49.5629324,
+      "lng": 25.6116471
+    },
+    {
+      "address": "просп. Степана Бандери, 70",
+      "maps_url": "https://maps.app.goo.gl/RS84irtqA8GTFpPP9",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.5499414,
+      "lng": 25.6215733
+    }
+  ],
+  "dnipro": [
+    {
+      "address": "бульвар Слави, 5д",
+      "maps_url": "https://maps.app.goo.gl/cPFwWrD89ZjCp6GK6",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 48.4142025,
+      "lng": 35.0695985
+    },
+    {
+      "address": "бульвар Театральний, 2",
+      "maps_url": "https://maps.app.goo.gl/faCTQBrD8zzNes1q6",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 48.4673776,
+      "lng": 35.0448578
+    },
+    {
+      "address": "бульвар Театральний, 3",
+      "maps_url": "https://maps.app.goo.gl/kmwLMzTMbVnb7Yub9",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 48.4669461,
+      "lng": 35.0446062
+    },
+    {
+      "address": "бульвар Театральний, 5",
+      "maps_url": "https://maps.app.goo.gl/koMG1pV4mosBo8rx9",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 48.4670488,
+      "lng": 35.0447516
+    },
+    {
+      "address": "вул. 20-річчя Перемоги, 35, 2 поверх",
+      "maps_url": "https://maps.app.goo.gl/BPreF81Uz9sXcSjVA",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 48.4153626,
+      "lng": 35.1334771
+    },
+    {
+      "address": "вул. Академіка Образцова, 26",
+      "maps_url": "https://maps.app.goo.gl/FcUEBhJ8A4BaYs2G8",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 48.5193319,
+      "lng": 35.0578789
+    },
+    {
+      "address": "вул. Велика Діївська, 111Р, 1 поверх",
+      "maps_url": "https://maps.app.goo.gl/ohFGb9SDgpR1y85D6",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 48.4794897,
+      "lng": 34.9262954
+    },
+    {
+      "address": "вул. Гагаріна, 23",
+      "maps_url": "https://maps.app.goo.gl/8pDxwNZxQX67uw3N8",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 48.4499575,
+      "lng": 35.0601657
+    },
+    {
+      "address": "вул. Данила Галицького, 29",
+      "maps_url": "https://maps.app.goo.gl/oQdNZcUFsaLyrofp7",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 48.4572401,
+      "lng": 34.9372404
+    },
+    {
+      "address": "вул. Інженерна, 1",
+      "maps_url": "https://maps.app.goo.gl/PtXWMyRsBNdm1i4o7",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 48.4078174,
+      "lng": 35.0029898
+    },
+    {
+      "address": "вул. Калинова, 78",
+      "maps_url": "https://maps.app.goo.gl/vHc78TYVaBNXDyrB9",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 48.5153635,
+      "lng": 35.0543952
+    },
+    {
+      "address": "вул. Комбрига Петрова, 3",
+      "maps_url": "https://maps.app.goo.gl/JUDT1rRbKyxsjqM18",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 48.4005278,
+      "lng": 35.0321683
+    },
+    {
+      "address": "вул. Марії Лисиченко, 21, 2 поверх",
+      "maps_url": "https://maps.app.goo.gl/R7FXVo3ExBbaDm9F8",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 48.5234971,
+      "lng": 35.0353613
+    },
+    {
+      "address": "вул. Михайла Грушевського, 1",
+      "maps_url": "https://maps.app.goo.gl/YPCLCShXpw6G6EDu8",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 48.4626752,
+      "lng": 35.0466292
+    },
+    {
+      "address": "вул. Новокримська, 2Л",
+      "maps_url": "https://maps.app.goo.gl/L9D4Qj81Q9SsuCFX6",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 48.4291872,
+      "lng": 35.0095243
+    },
+    {
+      "address": "вул. Панікахи, 34А",
+      "maps_url": "https://maps.app.goo.gl/vVUVYyoxfd9KsTE97",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 48.3960517,
+      "lng": 35.025588
+    },
+    {
+      "address": "вул. Робоча, 164",
+      "maps_url": "https://maps.app.goo.gl/HWCKQxTELjjNw9Jy7",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 48.4467463,
+      "lng": 34.9993672
+    },
+    {
+      "address": "вул. Робоча, 64",
+      "maps_url": "https://maps.app.goo.gl/vXHbYRrVGck1RNh78",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 48.459761,
+      "lng": 35.0008654
+    },
+    {
+      "address": "вул. Робоча, 91",
+      "maps_url": "https://maps.app.goo.gl/gfv4TqauWzDvkxRA9",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 48.441942,
+      "lng": 34.9978026
+    },
+    {
+      "address": "вул. Тітова, 21",
+      "maps_url": "https://maps.app.goo.gl/jDxreuqC1BMCyDDn9",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 48.4303608,
+      "lng": 35.0070224
+    },
+    {
+      "address": "вул. Тітова, 31",
+      "maps_url": "https://maps.app.goo.gl/5va3BHQWXJH7Qbsf9",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 48.4322958,
+      "lng": 35.0000588
+    },
+    {
+      "address": "вул. Тополина, 1",
+      "maps_url": "https://maps.app.goo.gl/yjjRMA6TqMtiLmDJA",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 48.391075,
+      "lng": 35.0306635
+    },
+    {
+      "address": "вул. Шмідта, 111",
+      "maps_url": "https://maps.app.goo.gl/w6fRbzwAWi2WxSzE7",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 48.4732093,
+      "lng": 35.0249136
+    },
+    {
+      "address": "вул. Шолохова, 7",
+      "maps_url": "https://maps.app.goo.gl/pM9ZpvmaV83KVV127",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 48.5081459,
+      "lng": 34.9876415
+    },
+    {
+      "address": "Донецьке шосе, 7",
+      "maps_url": "https://maps.app.goo.gl/xbQgaJjxzhN9Vip68",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 48.5104158,
+      "lng": 34.9901058
+    },
+    {
+      "address": "провул. Парусний, 9",
+      "maps_url": "https://maps.app.goo.gl/YUAsudaEmq8ZWbGj8",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 48.478878,
+      "lng": 34.9070165
+    },
+    {
+      "address": "провул. Фестивальний, 2",
+      "maps_url": "https://maps.app.goo.gl/1qFjm9jPE7cAjtWo6",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 48.5281879,
+      "lng": 35.020413
+    },
+    {
+      "address": "просп. Гагаріна, 120",
+      "maps_url": "https://maps.app.goo.gl/tfQJMHdB8EszKqR87",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 48.4263314,
+      "lng": 35.0238221
+    },
+    {
+      "address": "просп. Гагаріна, 165",
+      "maps_url": "https://maps.app.goo.gl/N3dhvy9C3chUh4hcA",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 48.4255791,
+      "lng": 35.0286579
+    },
+    {
+      "address": "просп. Гагаріна, 29",
+      "maps_url": "https://maps.app.goo.gl/8F9igPLQdMTnSZx97",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 48.4498084,
+      "lng": 35.0600759
+    },
+    {
+      "address": "просп. Гагаріна, 29, 2 поверх",
+      "maps_url": "https://maps.app.goo.gl/6bkyvjMoVrioYuig8",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 48.4500906,
+      "lng": 35.0598526
+    },
+    {
+      "address": "просп. Героїв 13Л, 2 поверх",
+      "maps_url": "https://maps.app.goo.gl/s33XykCPhZrp1XCf9",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 48.4173281,
+      "lng": 35.0613501
+    },
+    {
+      "address": "просп. Героїв, 29",
+      "maps_url": "https://maps.app.goo.gl/nr1fcWfTgqKcF7xcA",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 48.410232,
+      "lng": 35.0695279
+    },
+    {
+      "address": "просп. Миру, 12",
+      "maps_url": "https://maps.app.goo.gl/6i8j6tUtsZ5wQ1zs7",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 48.5291104,
+      "lng": 35.0173262
+    },
+    {
+      "address": "просп. Олександра Поля, 42",
+      "maps_url": "https://maps.app.goo.gl/8vJ1JZ85QX3aKwuT7",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 48.4568182,
+      "lng": 35.022805
+    },
+    {
+      "address": "просп. Олександра Поля, 59",
+      "maps_url": "https://maps.app.goo.gl/yMeqhFZqm1tYiJzv7",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 48.4554402,
+      "lng": 35.0248555
+    },
+    {
+      "address": "просп. Слобожанський, 11",
+      "maps_url": "https://maps.app.goo.gl/uoXuqQPJqQB9fPKh7",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 48.49131,
+      "lng": 35.065121
+    }
+  ],
+  "odesa": [
+    {
+      "address": "вул. Академіка Вільямса, 67",
+      "maps_url": "https://maps.app.goo.gl/Z4gTv9hwPZFR2PQx9",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 46.3905751,
+      "lng": 30.7260402
+    },
+    {
+      "address": "вул. Армійська, 17а",
+      "maps_url": "https://maps.app.goo.gl/FpddTd2BCh9gLvQ68",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 46.452239,
+      "lng": 30.749842
+    },
+    {
+      "address": "вул. Балківська, 139А",
+      "maps_url": "https://maps.app.goo.gl/bvFcqmFApwRrRBJz6",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 46.4709221,
+      "lng": 30.7061983
+    },
+    {
+      "address": "вул. Генерала Петрова, 17/2",
+      "maps_url": "https://maps.app.goo.gl/XxvGEAWZ9S4XHiXs5",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 46.4302578,
+      "lng": 30.7088777
+    },
+    {
+      "address": "вул. Генуезька, 20",
+      "maps_url": "https://maps.app.goo.gl/tfvoJ4QLEVD4uTGd6",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 46.4396209,
+      "lng": 30.7553827
+    },
+    {
+      "address": "вул. Героїв Оборони Одеси, 94",
+      "maps_url": "https://maps.app.goo.gl/iNF2u5YyWpwchbgH7",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 46.5801252,
+      "lng": 30.785567
+    },
+    {
+      "address": "вул. Івана та Юрія Лип, 34",
+      "maps_url": "https://maps.app.goo.gl/ZLAfQuzTrQNdwbkr6",
+      "update_day": "",
+      "update_note": "",
+      "lat": 46.430925,
+      "lng": 30.7038471
+    },
+    {
+      "address": "вул. Канатна, 38",
+      "maps_url": "https://maps.app.goo.gl/XvRwfVGqiRwtTWpz6",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 46.4764498,
+      "lng": 30.7473609
+    },
+    {
+      "address": "вул. Лейтенанта Шмідта, 19",
+      "maps_url": "https://maps.app.goo.gl/8jxqqBSsp3Ea9XVw9",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 46.4698803,
+      "lng": 30.7427839
+    },
+    {
+      "address": "вул. Мала Арнаутська, 109",
+      "maps_url": "https://maps.app.goo.gl/AY5cB3MpffHBBNky7",
+      "update_day": "",
+      "update_note": "",
+      "lat": 46.4715624,
+      "lng": 30.7322647
+    },
+    {
+      "address": "вул. Мала Арнаутська, 113",
+      "maps_url": "https://maps.app.goo.gl/ELNEXUAayobSy2x56",
+      "update_day": "",
+      "update_note": "",
+      "lat": 46.4715845,
+      "lng": 30.7310065
+    },
+    {
+      "address": "вул. Новосельського, 70",
+      "maps_url": "https://maps.app.goo.gl/obsL4Mvna7CCiMbc9",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 46.4823514,
+      "lng": 30.7242491
+    },
+    {
+      "address": "вул. Садова, 20",
+      "maps_url": "https://maps.app.goo.gl/LMeEoaENswWdWUuz7",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 46.484905,
+      "lng": 30.7306007
+    },
+    {
+      "address": "вул. Стовпова, 19А",
+      "maps_url": "https://maps.app.goo.gl/dmy2Ag8BTb37d1GX7",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 46.469026,
+      "lng": 30.6721948
+    },
+    {
+      "address": "Люстдорфська дорога, 162",
+      "maps_url": "https://maps.app.goo.gl/9pXQgRkVRJzt1bep7",
+      "update_day": "",
+      "update_note": "",
+      "lat": 46.3990765,
+      "lng": 30.7321678
+    },
+    {
+      "address": "Люстдорфська дорога, 89Б",
+      "maps_url": "https://maps.app.goo.gl/yw1nDeN3Kms8TMwCA",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 46.415662,
+      "lng": 30.7272725
+    },
+    {
+      "address": "Миколаївська дорога, 287А",
+      "maps_url": "https://maps.app.goo.gl/JYU57hUXw9FuR9X6A",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 46.5524766,
+      "lng": 30.757961
+    },
+    {
+      "address": "просп. Адміральський проспект, 35А",
+      "maps_url": "https://maps.app.goo.gl/nR7kuhjT8MTxcDbc7",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 46.4370011,
+      "lng": 30.7289435
+    },
+    {
+      "address": "просп. Добровольського, 125",
+      "maps_url": "https://maps.app.goo.gl/Ywef1g1k1BnKUdh88",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.5860908,
+      "lng": 30.7890284
+    },
+    {
+      "address": "просп. Добровольського, 159",
+      "maps_url": "https://maps.app.goo.gl/ZLFWnAqjLjMDaPKn8",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 46.5953368,
+      "lng": 30.800801
+    },
+    {
+      "address": "просп. Шевченка, 7",
+      "maps_url": "https://maps.app.goo.gl/6yPTqaj7GnwYbkUu5",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 46.4579089,
+      "lng": 30.7507536
+    }
+  ],
+  "kharkiv": [
+    {
+      "address": "вул. Академіка Павлова, 120",
+      "maps_url": "https://maps.app.goo.gl/YbQDLFRxPsFaL3UD7",
+      "update_day": "Неділя",
+      "update_note": "",
+      "lat": 50.0072857,
+      "lng": 36.3172331
+    },
+    {
+      "address": "вул. Валентинівська, 38Б, 2 поверх",
+      "maps_url": "https://maps.app.goo.gl/XCRwR7AvsC6XbC177",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.0099481,
+      "lng": 36.3503107
+    },
+    {
+      "address": "вул. Вернадського, 1",
+      "maps_url": "https://maps.app.goo.gl/s3GJY9QVko5rJ1Un8",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 49.9823313,
+      "lng": 36.2408519
+    },
+    {
+      "address": "вул. Вернадського, 1",
+      "maps_url": "https://maps.app.goo.gl/eyUvJhNZpNRZW11C6",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 49.9823919,
+      "lng": 36.240749
+    },
+    {
+      "address": "вул. Гаврійців-Широніців, 33",
+      "maps_url": "https://maps.app.goo.gl/TF4CsETxLBnWadgq7",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 50.0047198,
+      "lng": 36.3310109
+    },
+    {
+      "address": "вул. Гвардійців Широнінців, 29а",
+      "maps_url": "https://maps.app.goo.gl/rQgvVoqAfN3NN3kaA",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 50.0045291,
+      "lng": 36.3304566
+    },
+    {
+      "address": "вул. Героїв Праці, 14",
+      "maps_url": "https://maps.app.goo.gl/Tj9JKkGjSqSsm1Me6",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 50.0250473,
+      "lng": 36.3306002
+    },
+    {
+      "address": "вул. Євгена Котляра, 8/10В",
+      "maps_url": "https://maps.app.goo.gl/JgtnrK2oJQQ9u6BU7",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 49.9894933,
+      "lng": 36.2082268
+    },
+    {
+      "address": "вул. Золочівська, 23",
+      "maps_url": "https://maps.app.goo.gl/HwvotSjLa79juLUs7",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 49.9844297,
+      "lng": 36.1533167
+    },
+    {
+      "address": "вул. Отакара Яроша, 25А, 2 поверх",
+      "maps_url": "https://maps.app.goo.gl/UvejQBhish974GXK8",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.0276356,
+      "lng": 36.2229227
+    },
+    {
+      "address": "вул. Полтавський Шлях, 123",
+      "maps_url": "https://maps.app.goo.gl/57W5d1YQwRMuYzFc7",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 49.9840873,
+      "lng": 36.1880986
+    },
+    {
+      "address": "вул. Полтавський шлях, 147",
+      "maps_url": "https://maps.app.goo.gl/c5jGYwfF6yrsD81T9",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.9820236,
+      "lng": 36.1819276
+    },
+    {
+      "address": "вул. Полтавський Шлях, 148/2",
+      "maps_url": "https://maps.app.goo.gl/eJsnk5VnJeUXRRwY9",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 49.9832517,
+      "lng": 36.1787407
+    },
+    {
+      "address": "вул. Полтавський Шлях, 150",
+      "maps_url": "https://maps.app.goo.gl/ykizFTg9MPsQU9dE9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.9831763,
+      "lng": 36.1821714
+    },
+    {
+      "address": "вул. Полтавський Шлях, 153",
+      "maps_url": "https://maps.app.goo.gl/umgC3QkLBdx66txCA",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 49.9814024,
+      "lng": 36.1813436
+    },
+    {
+      "address": "вул. Полтавський шлях, 39",
+      "maps_url": "https://maps.app.goo.gl/FBa8JU9C3eVXoc9E6",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 49.9870871,
+      "lng": 36.2135072
+    },
+    {
+      "address": "вул. Пушкінська, 58,",
+      "maps_url": "https://maps.app.goo.gl/8GbCAxJPYkCujNiNA",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.0009992,
+      "lng": 36.2441783
+    },
+    {
+      "address": "вул. Різдвяна, 16",
+      "maps_url": "https://maps.app.goo.gl/z1vP8dJYJbq2gPxZA",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.9916913,
+      "lng": 36.2226248
+    },
+    {
+      "address": "вул. Різдвяна, 21",
+      "maps_url": "https://maps.app.goo.gl/9pGD2CGwmxWw9yrr6",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.9905374,
+      "lng": 36.222221
+    },
+    {
+      "address": "вул. Салтівське шосе, 248а",
+      "maps_url": "https://maps.app.goo.gl/BeBCKE9XK7VTCwwN6",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 49.9881381,
+      "lng": 36.3496628
+    },
+    {
+      "address": "вул. Свинаренка, 18",
+      "maps_url": "https://maps.app.goo.gl/PfNqcrNLgs2sV8AM9",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 49.9506791,
+      "lng": 36.1615519
+    },
+    {
+      "address": "вул. Северина Потоцького, 15",
+      "maps_url": "https://maps.app.goo.gl/B5qhx3PHZAN8TD6YA",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 49.9451293,
+      "lng": 36.3635823
+    },
+    {
+      "address": "вул. Сергія Грицевця, 31",
+      "maps_url": "https://maps.app.goo.gl/PCT4VjRUz2JbH3zG9",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.9165077,
+      "lng": 36.4074213
+    },
+    {
+      "address": "вул. Стадіонний проїзд, 21",
+      "maps_url": "https://maps.app.goo.gl/rXSKTm4nyEeP4pbP6",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 49.9587851,
+      "lng": 36.3291238
+    },
+    {
+      "address": "вул. Суздальські Ряди, 12/3",
+      "maps_url": "https://maps.app.goo.gl/Px316ck6bZPPY1Cd8",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.991195,
+      "lng": 36.2243892
+    },
+    {
+      "address": "вул. Сумська, 49",
+      "maps_url": "https://maps.app.goo.gl/KHjP88vFLLNnQPF36",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 50.0072362,
+      "lng": 36.2368035
+    },
+    {
+      "address": "вул. Танкопія, 14a",
+      "maps_url": "https://maps.app.goo.gl/DV1nLaeETDDQjeGa8",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 49.9534033,
+      "lng": 36.3133496
+    },
+    {
+      "address": "майдан Захисників України, 4",
+      "maps_url": "https://maps.app.goo.gl/jaZmt4S1jKXWzvi88",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.9845532,
+      "lng": 36.2614743
+    },
+    {
+      "address": "площа Захисників України, 16",
+      "maps_url": "https://maps.app.goo.gl/ksSuh4PUqFnNBGpA9",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 49.984269,
+      "lng": 36.262511
+    },
+    {
+      "address": "площа Захисників України, 7/8",
+      "maps_url": "https://maps.app.goo.gl/Pai6YMsJ2DWcExzn7",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.9859289,
+      "lng": 36.2590321
+    },
+    {
+      "address": "провул. Грабовського, 9",
+      "maps_url": "https://maps.app.goo.gl/Xh8jfurTfQyMz524A",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.9947968,
+      "lng": 36.2305734
+    },
+    {
+      "address": "просп. Гагаріна, 20",
+      "maps_url": "https://maps.app.goo.gl/CyLotFcVmotRsYp76",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 49.9806592,
+      "lng": 36.2455562
+    },
+    {
+      "address": "просп. Гагаріна, 38Б",
+      "maps_url": "https://maps.app.goo.gl/TgGWxcbkzYeJLW357",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.9777535,
+      "lng": 36.2485219
+    },
+    {
+      "address": "просп. Гагаріна, 41/2",
+      "maps_url": "https://maps.app.goo.gl/9jGXkv8FVWkV7w5s9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.9764293,
+      "lng": 36.2542256
+    },
+    {
+      "address": "просп. Гагаріна, 72",
+      "maps_url": "https://maps.app.goo.gl/uZJ6rWjNF2qYpsHk9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.9728349,
+      "lng": 36.254832
+    },
+    {
+      "address": "просп. Героїв Сталінграда, 175",
+      "maps_url": "https://maps.app.goo.gl/wEh3DfcJ6iKHK9Yc6",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.9449872,
+      "lng": 36.31588
+    },
+    {
+      "address": "просп. Героїв Сталінграду, 173",
+      "maps_url": "https://maps.app.goo.gl/Pict2eNhbxs27bSd9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.9456024,
+      "lng": 36.3171306
+    },
+    {
+      "address": "просп. Героїв Харкова, 137",
+      "maps_url": "https://maps.app.goo.gl/R3NKG67WC1RHHKao7",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.9887566,
+      "lng": 36.268353
+    },
+    {
+      "address": "просп. Індустріальний, 2",
+      "maps_url": "https://maps.app.goo.gl/hdjgEcK8PD8SS6ws8",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 49.9466512,
+      "lng": 36.379275
+    },
+    {
+      "address": "просп. Науки, 36",
+      "maps_url": "https://maps.app.goo.gl/BqyrNZ2QkCjnFrv76",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 50.0218586,
+      "lng": 36.2245606
+    },
+    {
+      "address": "просп. Науки, 43",
+      "maps_url": "https://maps.app.goo.gl/zC2BHoKnT9CYoLQ17",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 50.0345648,
+      "lng": 36.2201553
+    },
+    {
+      "address": "просп. Олександрівський, 113",
+      "maps_url": "https://maps.app.goo.gl/xefqzAD5scp6YmN99",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 49.9388535,
+      "lng": 36.3818381
+    },
+    {
+      "address": "просп. Олександрівський, 99",
+      "maps_url": "https://maps.app.goo.gl/k1ypeLfAqVwWGqRQ6",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.9412088,
+      "lng": 36.3754678
+    },
+    {
+      "address": "просп. Перемоги, 62",
+      "maps_url": "https://maps.app.goo.gl/DGyg3HapbNYJh2SP6",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 50.0598408,
+      "lng": 36.2027395
+    },
+    {
+      "address": "просп. Перемоги, 64А",
+      "maps_url": "https://maps.app.goo.gl/bMu5o4LyKR2LY9SJ6",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.060981,
+      "lng": 36.2021659
+    },
+    {
+      "address": "просп. Перемоги, 70Б",
+      "maps_url": "https://maps.app.goo.gl/RuitEiVirPSVe56B8",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 50.0635475,
+      "lng": 36.2090014
+    },
+    {
+      "address": "просп. Тракторобудівників, 2/4",
+      "maps_url": "https://maps.app.goo.gl/gZKmeSr175CduGfp8",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 49.9789467,
+      "lng": 36.3436429
+    },
+    {
+      "address": "просп. Ювілейний, 57А",
+      "maps_url": "https://maps.app.goo.gl/eSwbC7zmFv77w6CV7",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.9976413,
+      "lng": 36.3418384
+    },
+    {
+      "address": "просп. Ювілейний, 63Д",
+      "maps_url": "https://maps.app.goo.gl/nG8icJSC6PxERPMQ6",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 49.9976319,
+      "lng": 36.3489361
+    },
+    {
+      "address": "просп. Ювілейний, 98А, 2 поверх",
+      "maps_url": "https://maps.app.goo.gl/2F6YCSEMUCBJvBXe7",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 49.9914398,
+      "lng": 36.3603638
+    },
+    {
+      "address": "Стадіонний проїзд, 3",
+      "maps_url": "https://maps.app.goo.gl/SqknBzTSL7G9nA7u5",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 49.9606683,
+      "lng": 36.319929
+    }
+  ],
+  "rivne": [
+    {
+      "address": "вул. Борисенка, 2",
+      "maps_url": "https://maps.app.goo.gl/ySTSP1iiMUtsG4z5A",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 50.6192432,
+      "lng": 26.2475565
+    },
+    {
+      "address": "вул. Вячеслава Чорновола, 17",
+      "maps_url": "https://maps.app.goo.gl/D9rvUkCM2A3uWfcx8",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 50.6169114,
+      "lng": 26.2529313
+    },
+    {
+      "address": "вул. Гетьмана Сагайдачного, 4А",
+      "maps_url": "https://maps.app.goo.gl/K8Mb2BbkYqhVQ2m9A",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.621817,
+      "lng": 26.2426636
+    },
+    {
+      "address": "вул. Гетьмана Сагайдачного, 4А",
+      "maps_url": "https://maps.app.goo.gl/K8Mb2BbkYqhVQ2m9A",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.621817,
+      "lng": 26.2426636
+    },
+    {
+      "address": "вул. Київська, 10",
+      "maps_url": "https://maps.app.goo.gl/Bp4EixcBDQC5wibA6",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.6168532,
+      "lng": 26.249059
+    },
+    {
+      "address": "вул. Київська, 10",
+      "maps_url": "https://maps.app.goo.gl/99iGjHxMcvHSTLvp6",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 50.6160296,
+      "lng": 26.2746223
+    },
+    {
+      "address": "вул. Київська, 10",
+      "maps_url": "https://maps.app.goo.gl/Bp4EixcBDQC5wibA6",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.6168532,
+      "lng": 26.249059
+    },
+    {
+      "address": "вул. Князя Острозького, 14,",
+      "maps_url": "https://maps.app.goo.gl/39BSEjVeX6mCY9Zi9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.6383398,
+      "lng": 26.1995786
+    },
+    {
+      "address": "вул. Князя Острозького, 14,",
+      "maps_url": "https://maps.app.goo.gl/39BSEjVeX6mCY9Zi9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.6383398,
+      "lng": 26.1995786
+    },
+    {
+      "address": "вул. Князя Романа, 13",
+      "maps_url": "https://maps.app.goo.gl/ZmacY6i9WV9gpjj39",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 50.6244309,
+      "lng": 26.249059
+    },
+    {
+      "address": "вул. Соборна, 16 А",
+      "maps_url": "https://maps.app.goo.gl/bhrHXDMnq7d6kpC37",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.618502,
+      "lng": 26.2393655
+    },
+    {
+      "address": "вул. Соборна, 16 А",
+      "maps_url": "https://maps.app.goo.gl/bhrHXDMnq7d6kpC37",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.618502,
+      "lng": 26.2393655
+    },
+    {
+      "address": "вул. Соборна, 332",
+      "maps_url": "https://maps.app.goo.gl/zz9CWiuaa4g7Fv1c8",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 50.6217133,
+      "lng": 26.2310278
+    },
+    {
+      "address": "вул. Соборна, 38",
+      "maps_url": "https://maps.app.goo.gl/WY7J8HNZRKU7dJQ88",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 50.6194459,
+      "lng": 26.2524893
+    },
+    {
+      "address": "вул. Соборна, 416",
+      "maps_url": "https://maps.app.goo.gl/zbN7T4kVaS3vYZ2d8",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.6356818,
+      "lng": 26.2093957
+    },
+    {
+      "address": "вул. Соборна, 416",
+      "maps_url": "https://maps.app.goo.gl/zbN7T4kVaS3vYZ2d8",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.6356818,
+      "lng": 26.2093957
+    },
+    {
+      "address": "вул. Соборна, 63",
+      "maps_url": "https://maps.app.goo.gl/iAQURKjFdQhD7p8R9",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 50.6201453,
+      "lng": 26.2445637
+    },
+    {
+      "address": "вул. Соборна, 91",
+      "maps_url": "https://maps.app.goo.gl/PTx7e3eaS9BBjuBJ9",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 50.6197746,
+      "lng": 26.2447387
+    },
+    {
+      "address": "вул. Степана Бандери, 49",
+      "maps_url": "https://maps.app.goo.gl/xwWgMTGzWigvxsEH7",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.625427,
+      "lng": 26.2135782
+    },
+    {
+      "address": "вул. Степана Бандери, 49",
+      "maps_url": "https://maps.app.goo.gl/xwWgMTGzWigvxsEH7",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.625427,
+      "lng": 26.2135782
+    },
+    {
+      "address": "просп. Генерала Безручка, 5",
+      "maps_url": "https://maps.app.goo.gl/NWLZPTe5XwJqtmxW7",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.6386431,
+      "lng": 26.2730539
+    },
+    {
+      "address": "просп. Генерала Безручка, 5",
+      "maps_url": "https://maps.app.goo.gl/NWLZPTe5XwJqtmxW7",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.6386431,
+      "lng": 26.2730539
+    }
+  ],
+  "chernivtsi": [
+    {
+      "address": "вул. Воробкевича, 1А",
+      "maps_url": "https://maps.app.goo.gl/S278WTzVajh33jYt6",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 48.2634764,
+      "lng": 25.9363231
+    },
+    {
+      "address": "вул. Героїв Майдану, 54",
+      "maps_url": "https://maps.app.goo.gl/R5xwgvAb8PX4Bjvy8",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 48.2835938,
+      "lng": 25.9320003
+    },
+    {
+      "address": "вул. Головна, 200",
+      "maps_url": "https://maps.app.goo.gl/zj5Gd4jMyKufaYT2A",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 48.2609822,
+      "lng": 25.9523684
+    },
+    {
+      "address": "вул. Головна, 217",
+      "maps_url": "https://maps.app.goo.gl/BxU9rANiWHEQyngAA",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 48.2634762,
+      "lng": 25.9363231
+    },
+    {
+      "address": "вул. Комарова, 27-29",
+      "maps_url": "https://maps.app.goo.gl/trCz6ENu1KtSeARQ9",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 48.2573635,
+      "lng": 25.9312551
+    },
+    {
+      "address": "вул. Комарова, 31",
+      "maps_url": "https://maps.app.goo.gl/yjQpAbZbL7abfuEk8",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 48.2577358,
+      "lng": 25.9310646
+    },
+    {
+      "address": "вул. Миколайчука, 9,",
+      "maps_url": "https://maps.app.goo.gl/qsBNamih7dVHzyCe9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 48.2656493,
+      "lng": 25.943666
+    },
+    {
+      "address": "вул. Небесної сотні, 14",
+      "maps_url": "https://maps.app.goo.gl/Qg9SmPKe3VpMnNB36",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 48.2660721,
+      "lng": 25.9381261
+    },
+    {
+      "address": "вул. Шолом-Алейхема, 2",
+      "maps_url": "https://maps.app.goo.gl/mxpvYWdfeYskFCwD6",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 48.2946834,
+      "lng": 25.9371297
+    },
+    {
+      "address": "просп. Незалежності, 111,",
+      "maps_url": "https://maps.app.goo.gl/dH1S7icsuqmui2jf9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 48.2667784,
+      "lng": 25.9389066
+    }
+  ],
+  "lutsk": [
+    {
+      "address": "вул. Винниченка, 47",
+      "maps_url": "https://maps.app.goo.gl/2n6YbwUnfkAkjt6TA",
+      "update_day": "Неділя",
+      "update_note": "",
+      "lat": 50.7501023,
+      "lng": 25.2945513
+    },
+    {
+      "address": "вул. Воїнів-Інтернаціоналістів, 1",
+      "maps_url": "https://maps.app.goo.gl/Y8Uw1Zpk8espQ5R69",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 50.7613878,
+      "lng": 25.3620951
+    },
+    {
+      "address": "вул. Дубнівська, 12",
+      "maps_url": "https://maps.app.goo.gl/dYJqZjjwWfzvNYXs9",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 50.7412526,
+      "lng": 25.358745
+    },
+    {
+      "address": "вул. Кравчука, 17",
+      "maps_url": "https://maps.app.goo.gl/8AJx5xGoGp83yXEb6",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 50.7572576,
+      "lng": 25.3580476
+    },
+    {
+      "address": "вул. Сенаторки Левчанівської, 4",
+      "maps_url": "https://maps.app.goo.gl/tvgpcZJu9RUzTpVh7",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 50.7415738,
+      "lng": 25.3169112
+    },
+    {
+      "address": "вул. Червоного Хреста, 16",
+      "maps_url": "https://maps.app.goo.gl/D46hnT65xfqVUBJC6",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 50.7439615,
+      "lng": 25.3015866
+    },
+    {
+      "address": "просп. Відродження, 11а",
+      "maps_url": "https://maps.app.goo.gl/KEHRe8kWhdPjBFim6",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.7488336,
+      "lng": 25.3794831
+    },
+    {
+      "address": "просп. Відродження, 29а",
+      "maps_url": "https://maps.app.goo.gl/VTUVpzwNwp6q9xUq6",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 50.7528868,
+      "lng": 25.378402
+    },
+    {
+      "address": "просп. Волі, 27",
+      "maps_url": "https://maps.app.goo.gl/CRDKNzz2Bu9K1Nwo7",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 50.7458721,
+      "lng": 25.3387266
+    },
+    {
+      "address": "просп. Волі, 29",
+      "maps_url": "https://maps.app.goo.gl/3cW8H4FM3FEiDAo59",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 50.7455871,
+      "lng": 25.3401043
+    },
+    {
+      "address": "просп. Молоді, 4",
+      "maps_url": "https://maps.app.goo.gl/RaijJiQAjxa7uLLaA",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 50.7621711,
+      "lng": 25.3731287
+    },
+    {
+      "address": "просп. Президента Грушевського",
+      "maps_url": "https://maps.app.goo.gl/7MJ8NzneWs6PbYLt5",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.7537503,
+      "lng": 25.2916661
+    },
+    {
+      "address": "просп. Соборності, 20",
+      "maps_url": "https://maps.app.goo.gl/mbuGoyajQnLug2GDA",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 50.7634414,
+      "lng": 25.3651973
+    },
+    {
+      "address": "просп. Соборності, 42",
+      "maps_url": "https://maps.app.goo.gl/4gBLsonCDqaK18C28",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 50.7572576,
+      "lng": 25.3580476
+    }
+  ],
+  "zhytomyr": [
+    {
+      "address": "вул. Велика Бердичівська, 28",
+      "maps_url": "https://maps.app.goo.gl/qnqkKbBj4Y8ZtWRg9",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 50.2514672,
+      "lng": 28.6702481
+    },
+    {
+      "address": "вул. Велика Бердичівська, 56",
+      "maps_url": "https://maps.app.goo.gl/JqkxjdtZTi1iqhNC9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.2463427,
+      "lng": 28.682169
+    },
+    {
+      "address": "вул. Велика Бердичівська, 62",
+      "maps_url": "https://maps.app.goo.gl/tBdaftz53JCUbfua7",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 50.2460653,
+      "lng": 28.6826912
+    },
+    {
+      "address": "вул. Івана Кочерги, 6",
+      "maps_url": "https://maps.app.goo.gl/Byu4KzBF3BFARWoY6",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 50.2527558,
+      "lng": 28.6708029
+    },
+    {
+      "address": "вул. Київська, 102",
+      "maps_url": "https://maps.app.goo.gl/2RcGCEFL9HKH77Nf7",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 50.256725,
+      "lng": 28.5769935
+    },
+    {
+      "address": "вул. Київська, 20",
+      "maps_url": "https://maps.app.goo.gl/PRJvnsJdLzVW42Ev6",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.2568706,
+      "lng": 28.6644245
+    },
+    {
+      "address": "вул. Київська, 25",
+      "maps_url": "https://maps.app.goo.gl/SjPyuDJTBQ8Fm3FbA",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.2571576,
+      "lng": 28.6661326
+    },
+    {
+      "address": "вул. Київська, 29",
+      "maps_url": "https://maps.app.goo.gl/P4HbmNaUfFgWrYa28",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 50.2574511,
+      "lng": 28.6675952
+    },
+    {
+      "address": "вул. Київська, 87",
+      "maps_url": "https://maps.app.goo.gl/fE76cnieJnn2ALgv7",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 50.2675558,
+      "lng": 28.6907727
+    },
+    {
+      "address": "вул. Михайлівська, 16/14",
+      "maps_url": "https://maps.app.goo.gl/5tjEUJLirAHF8xA66",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.2557478,
+      "lng": 28.6646339
+    },
+    {
+      "address": "вул. Небесної Сотні, 24",
+      "maps_url": "https://maps.app.goo.gl/ageLuz2ryHrRRuFf6",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 50.258933,
+      "lng": 28.6687921
+    },
+    {
+      "address": "вул. Театральна, 11",
+      "maps_url": "https://maps.app.goo.gl/Jq6w3M8KVV1F1Ycb9",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 50.2536259,
+      "lng": 28.6615066
+    },
+    {
+      "address": "вул. Театральна, 2",
+      "maps_url": "https://maps.app.goo.gl/mDJvfUBBcEfsM8QB8",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.256725,
+      "lng": 28.5769935
+    },
+    {
+      "address": "пл. Житній Ринок, 1",
+      "maps_url": "https://maps.app.goo.gl/HoJNHEzyMsADQYee7",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.2560286,
+      "lng": 28.5905078
+    },
+    {
+      "address": "просп. Миру, 23",
+      "maps_url": "https://maps.app.goo.gl/dxs6N1fV8rh6NbfXA",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 50.2789298,
+      "lng": 28.6318072
+    }
+  ],
+  "khmelnytskyi": [
+    {
+      "address": "вул. Кам'янецька, 11/24",
+      "maps_url": "https://maps.app.goo.gl/LawQBmuJs3g6iazy6",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 49.4294444,
+      "lng": 26.9805556
+    },
+    {
+      "address": "вул. Кам'янецька, 48",
+      "maps_url": "https://maps.app.goo.gl/MT6zivTvn5V25cG36",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.4260442,
+      "lng": 26.9786373
+    },
+    {
+      "address": "вул. Народної Волі, 1",
+      "maps_url": "https://maps.app.goo.gl/i515pdNrGTiQMegCA",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.3924182,
+      "lng": 27.0522258
+    },
+    {
+      "address": "вул. Нижня Берегова, 42",
+      "maps_url": "https://maps.app.goo.gl/97pqopccfPVyd8SWA",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.4361588,
+      "lng": 26.9836656
+    },
+    {
+      "address": "вул. Панаса Мирного, 2",
+      "maps_url": "https://maps.app.goo.gl/PC5y1WHmZ7Qtv4fa8",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 49.4403713,
+      "lng": 27.0006308
+    },
+    {
+      "address": "вул. Панаса Мирного, 26",
+      "maps_url": "https://maps.app.goo.gl/FguNZLy1puotowDx6",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 49.454494,
+      "lng": 27.0088597
+    },
+    {
+      "address": "вул. Панаса Мирного, 26",
+      "maps_url": "https://maps.app.goo.gl/5hwa29A4JYBfzQbi8",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.4543131,
+      "lng": 27.0083842
+    },
+    {
+      "address": "вул. Проскурівська, 86",
+      "maps_url": "https://maps.app.goo.gl/hh7fLE1TBSj8TzC19",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.4176276,
+      "lng": 27.0073753
+    },
+    {
+      "address": "вул. Соборна, 13-А",
+      "maps_url": "https://maps.app.goo.gl/QFf2PchWfkJ9BkZX6",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.4289616,
+      "lng": 26.6531367
+    },
+    {
+      "address": "вул. Староміська, 2",
+      "maps_url": "https://maps.app.goo.gl/7Ljk5QuFf8oFj91m6",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.4296763,
+      "lng": 26.9817255
+    },
+    {
+      "address": "вул. Шевченка, 2",
+      "maps_url": "https://maps.app.goo.gl/pn52BHNfbsgzvuvr7",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.4225592,
+      "lng": 26.9954153
+    },
+    {
+      "address": "вул. Шевченка, 34-А",
+      "maps_url": "https://maps.app.goo.gl/3hx5S5w5Ruj2ktKQA",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.4223348,
+      "lng": 26.9947384
+    }
+  ],
+  "uzhgorod": [
+    {
+      "address": "вул. Фединця, 23",
+      "maps_url": "https://maps.app.goo.gl/rEWJquWX39yudhLs8",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 48.625505,
+      "lng": 22.2992867
+    },
+    {
+      "address": "вул. Фединця, 47",
+      "maps_url": "https://maps.app.goo.gl/m9i6hc4urS6MdApCA",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 48.6253122,
+      "lng": 22.3018647
+    },
+    {
+      "address": "просп. Свободи, 14",
+      "maps_url": "https://maps.app.goo.gl/bg1c38yAFVD4gH3p7",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 48.6196272,
+      "lng": 22.2675558
+    },
+    {
+      "address": "просп. Свободи, 20",
+      "maps_url": "https://maps.app.goo.gl/g9hezd7tnN7PVpmi9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 48.6178175,
+      "lng": 22.2888986
+    },
+    {
+      "address": "просп. Свободи, 7/26",
+      "maps_url": "https://maps.app.goo.gl/wzLqqy1ESCwTqFBfA",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 48.6165592,
+      "lng": 22.2457921
+    }
+  ],
+  "vinnytsia": [
+    {
+      "address": "вул. Батозька, 21a",
+      "maps_url": "https://maps.app.goo.gl/Pjf4pRzvjMefJ52V6",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 49.2407355,
+      "lng": 28.5087287
+    },
+    {
+      "address": "вул. Замостянська, 34а",
+      "maps_url": "https://maps.app.goo.gl/kKqxm8DYKnPj2EVK7",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.2362346,
+      "lng": 28.4928461
+    },
+    {
+      "address": "вул. Келецька, 64а",
+      "maps_url": "https://maps.app.goo.gl/r1a5L2amMP1hLvJbA",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.2253869,
+      "lng": 28.4217586
+    },
+    {
+      "address": "вул. Келецька, 66",
+      "maps_url": "https://maps.app.goo.gl/LguyToTjgvSp6JTQ6",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 49.2251365,
+      "lng": 28.4188606
+    },
+    {
+      "address": "вул. Київська, 56",
+      "maps_url": "https://maps.app.goo.gl/RB4CWdct4i8zXnNi9",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 49.2473651,
+      "lng": 28.4775124
+    },
+    {
+      "address": "вул. Некрасова, 75",
+      "maps_url": "https://maps.app.goo.gl/H6WPYUnmaERPauiq5",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.2384538,
+      "lng": 28.5006758
+    },
+    {
+      "address": "вул. Пирогова, 23",
+      "maps_url": "https://maps.app.goo.gl/wcv2cKgJFTr8zcCJ8",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.2299931,
+      "lng": 28.4540453
+    },
+    {
+      "address": "вул. Пирогова, 31",
+      "maps_url": "https://maps.app.goo.gl/1koYv4KeZqu6XVkp9",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 49.2288344,
+      "lng": 28.4519281
+    },
+    {
+      "address": "вул. Пирогова, 9",
+      "maps_url": "https://maps.app.goo.gl/qtGXeE5fbCvcfxKv5",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.2346746,
+      "lng": 28.377764
+    },
+    {
+      "address": "вул. Привокзальна 2/1",
+      "maps_url": "https://maps.app.goo.gl/MvayTiAy9Lo8EAjFA",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.2391244,
+      "lng": 28.5085896
+    },
+    {
+      "address": "вул. Привокзальна, 2/1",
+      "maps_url": "https://maps.app.goo.gl/iWamQVdNsuixsANH7",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 49.2386983,
+      "lng": 28.5083538
+    },
+    {
+      "address": "вул. Родіона Скалецького, 2/51",
+      "maps_url": "https://maps.app.goo.gl/gegnde7C2wrhk87F6",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 49.2250545,
+      "lng": 28.4477841
+    },
+    {
+      "address": "просп. Космонавтів, 36а",
+      "maps_url": "https://maps.app.goo.gl/AkuRf3UBrAeA8KvK6",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 49.2255553,
+      "lng": 28.4191339
+    },
+    {
+      "address": "просп. Коцюбинського, 32",
+      "maps_url": "https://maps.app.goo.gl/pU5SovNoUXXQKEd18",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 49.2392635,
+      "lng": 28.4984448
+    },
+    {
+      "address": "просп. Коцюбинського, 4",
+      "maps_url": "https://maps.app.goo.gl/5Y7bsu6XuKfzyyj8A",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.2392395,
+      "lng": 28.5080319
+    },
+    {
+      "address": "шосе Хмельницьке, 145",
+      "maps_url": "https://maps.app.goo.gl/mS5KZxsMFJC8MBWp6",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 49.2356174,
+      "lng": 28.4051563
+    }
+  ],
+  "cherkasy": [
+    {
+      "address": "бульв. Шевченка, 145",
+      "maps_url": "https://maps.app.goo.gl/2nkcRQb9Ree954XB7",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.4486815,
+      "lng": 32.0516436
+    },
+    {
+      "address": "бульв. Шевченка, 209",
+      "maps_url": "https://maps.app.goo.gl/1YwASCqHvv979CQLA",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.4406108,
+      "lng": 32.0629245
+    },
+    {
+      "address": "бульв. Шевченка, 367",
+      "maps_url": "https://maps.app.goo.gl/cizwQ4r6nA8JpmuB7",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.4259319,
+      "lng": 32.0920604
+    },
+    {
+      "address": "бульв. Шевченка, 470",
+      "maps_url": "https://maps.app.goo.gl/wYacWBfpXxnTViyB7",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.4206647,
+      "lng": 32.1001838
+    },
+    {
+      "address": "вул. Благовісна, 399",
+      "maps_url": "https://maps.app.goo.gl/LmKfm2oBYv1hBjS7A",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 49.4277004,
+      "lng": 32.0799534
+    },
+    {
+      "address": "вул. Волкова, 34",
+      "maps_url": "https://maps.app.goo.gl/SrLxufWsn2BUmyM29",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.4297799,
+      "lng": 32.0899536
+    },
+    {
+      "address": "вул. Добровольського, 5/3",
+      "maps_url": "https://maps.app.goo.gl/E4HZJxFS5txzGJfB8",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 49.4192089,
+      "lng": 32.1025914
+    },
+    {
+      "address": "вул. Смілянська, 46",
+      "maps_url": "https://maps.app.goo.gl/sAT28kqukkf9WPtz5",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.4385796,
+      "lng": 32.0609055
+    }
+  ],
+  "poltava": [
+    {
+      "address": "вул. 1100-річчя Полтави, 4",
+      "maps_url": "https://maps.app.goo.gl/TDvjTqkVN8KoasDj9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.5871706,
+      "lng": 34.5516016
+    },
+    {
+      "address": "вул. Алмазна вулиця, 6/11",
+      "maps_url": "https://maps.app.goo.gl/HGyfRSrMvjkiKDmF7",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.5649923,
+      "lng": 34.5123917
+    },
+    {
+      "address": "вул. В'ячеслава Чорновола, 20А",
+      "maps_url": "https://maps.app.goo.gl/HqoA7JmEZjZVDtet9",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 49.5854247,
+      "lng": 34.5462427
+    },
+    {
+      "address": "вул. Котляревського, 15А",
+      "maps_url": "https://maps.app.goo.gl/97DbDQCr9FxAqD4c7",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 49.5864853,
+      "lng": 34.5554134
+    },
+    {
+      "address": "вул. Михайла Грушевського, 11",
+      "maps_url": "https://maps.app.goo.gl/pjF1ijewmBUTaWjG7",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.5660043,
+      "lng": 34.5155544
+    },
+    {
+      "address": "вул. Шевченка, 27",
+      "maps_url": "https://maps.app.goo.gl/ZfDj1W2f4wjPkFTj9",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 49.5834314,
+      "lng": 34.5474721
+    },
+    {
+      "address": "вул. Шевченка, 27",
+      "maps_url": "https://maps.app.goo.gl/GQ7BemftivQsr7h2A",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 49.5835504,
+      "lng": 34.5477324
+    },
+    {
+      "address": "пров. Романа Шухевича, 4",
+      "maps_url": "https://maps.app.goo.gl/bSfADdtqXxqFPCbw5",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 49.5876672,
+      "lng": 34.5535342
+    }
+  ],
+  "chernihiv": [
+    {
+      "address": "вул. Княжа, 26",
+      "maps_url": "https://maps.app.goo.gl/AhLXebpB4n3intsH7",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 51.4917641,
+      "lng": 31.2935166
+    },
+    {
+      "address": "вул. Рокосовського, 62",
+      "maps_url": "https://maps.app.goo.gl/4g4uzGtSxZaFcM1F9",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 51.514247,
+      "lng": 31.313683
+    },
+    {
+      "address": "просп. Левка Лукʼяненка, 16А",
+      "maps_url": "https://maps.app.goo.gl/EMDs7BCkd5PcvNudA",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 51.4846611,
+      "lng": 31.1881831
+    },
+    {
+      "address": "просп. Левка Лукʼяненка, 33",
+      "maps_url": "https://maps.app.goo.gl/NaZa9yc52TizZe8A7",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 51.4846611,
+      "lng": 31.1881831
+    },
+    {
+      "address": "просп. Миру, 207А",
+      "maps_url": "https://maps.app.goo.gl/DMYgjurGLPbNqLmCA",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 51.5156177,
+      "lng": 31.2740684
+    },
+    {
+      "address": "просп. Перемоги, 102",
+      "maps_url": "https://maps.app.goo.gl/gLDBp7fUUWJ8YXtE8",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 51.4965285,
+      "lng": 31.2993653
+    },
+    {
+      "address": "просп. Перемоги, 73",
+      "maps_url": "https://maps.app.goo.gl/DxainWq49UBJnDD99",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 51.491504,
+      "lng": 31.2091608
+    },
+    {
+      "address": "просп. Перемоги, 9",
+      "maps_url": "https://maps.app.goo.gl/7DTAePfgZ64EcSST9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 51.4846611,
+      "lng": 31.1881831
+    },
+    {
+      "address": "проспект Левка Лук'яненка, 42А",
+      "maps_url": "https://maps.app.goo.gl/ZdwjypjiMBeEMVSq7",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 51.5141788,
+      "lng": 31.3158656
+    }
+  ],
+  "sumy": [
+    {
+      "address": "вул. Воскресенська, 18",
+      "maps_url": "https://maps.app.goo.gl/fxi8FoaFbmWk8iNQ6",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 50.9108352,
+      "lng": 34.7998255
+    },
+    {
+      "address": "вул. Герасима Кондратьєва, 8",
+      "maps_url": "https://maps.app.goo.gl/qB56Ab4zMS8F9oXL6",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.9048152,
+      "lng": 34.7969698
+    },
+    {
+      "address": "вул. Героїв Крут, 76",
+      "maps_url": "https://maps.app.goo.gl/FgBKamGaReCnUCn86",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.9109752,
+      "lng": 34.8290594
+    },
+    {
+      "address": "вул. Гетьмана Павла Скоропадського, 22",
+      "maps_url": "https://maps.app.goo.gl/HWB34K1692pQZ5TB8",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.9217889,
+      "lng": 34.8118827
+    },
+    {
+      "address": "вул. Засумська, 10",
+      "maps_url": "https://maps.app.goo.gl/rdm53U7jAqc7GUFx9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.9144786,
+      "lng": 34.7947691
+    },
+    {
+      "address": "вул. Іллінська, 12",
+      "maps_url": "https://maps.app.goo.gl/EH4aDCXoKnWy2BAt9",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 50.9117201,
+      "lng": 34.78938
+    },
+    {
+      "address": "вул. Нижньовоскресенська, 1",
+      "maps_url": "https://maps.app.goo.gl/HexQ4WfNfH8EwHaZA",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 50.909861,
+      "lng": 34.796109
+    },
+    {
+      "address": "вул. Романа Атаманюка, 29",
+      "maps_url": "https://maps.app.goo.gl/5DUHXmtoLYWtWwuN7",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.9167579,
+      "lng": 34.805926
+    },
+    {
+      "address": "вул. Харківська, 24",
+      "maps_url": "https://maps.app.goo.gl/b9htqDEnmsAX3uQFA",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 50.9167579,
+      "lng": 34.805926
+    },
+    {
+      "address": "вул. Харківська, 4",
+      "maps_url": "https://maps.app.goo.gl/pbjVvTPyfFdGGGpF8",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 50.9042551,
+      "lng": 34.8084403
+    },
+    {
+      "address": "вул. Юрія Вєтрова, 9",
+      "maps_url": "https://maps.app.goo.gl/QAnkiphx3XEbBnMP7",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.9343593,
+      "lng": 34.8056186
+    },
+    {
+      "address": "просп. Михайла Лушпи, 10",
+      "maps_url": "https://maps.app.goo.gl/ScsqKLWeH6BxL4PA8",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 50.9096278,
+      "lng": 34.8228834
+    },
+    {
+      "address": "просп. Михайла Лушпи, 17",
+      "maps_url": "https://maps.app.goo.gl/4kdM1UgCdh7gnvqD6",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 50.9104156,
+      "lng": 34.8231712
+    },
+    {
+      "address": "просп. Михайла Лушпи, 43-1",
+      "maps_url": "https://maps.app.goo.gl/28tVqZdx5hMTVdmZ7",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 50.9158015,
+      "lng": 34.8303906
+    },
+    {
+      "address": "просп. Михайла Лушпи, 49",
+      "maps_url": "https://maps.app.goo.gl/m6NM6NrvJB3tZH849",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 50.9160414,
+      "lng": 34.8309042
+    },
+    {
+      "address": "просп. Перемоги, 105",
+      "maps_url": "https://maps.app.goo.gl/QHXH6YgDRatr6i8W9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 50.9416689,
+      "lng": 34.7770989
+    },
+    {
+      "address": "просп. Тараса Шевченка, 24",
+      "maps_url": "https://maps.app.goo.gl/2DywW1dXMaeEVqMw9",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 50.9167784,
+      "lng": 33.8320066
+    }
+  ],
+  "kropyvnytskyi": [
+    {
+      "address": "вул. Велика Перспективна, 23",
+      "maps_url": "https://maps.app.goo.gl/oLn9SDbqQU7YCTqV7",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 48.5124853,
+      "lng": 32.2682792
+    },
+    {
+      "address": "вул. Вокзальна, 24",
+      "maps_url": "https://maps.app.goo.gl/Vv5ArvkD9kJxd8G79",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 48.5234886,
+      "lng": 32.2057179
+    },
+    {
+      "address": "вул. Генерала Жадова, 26",
+      "maps_url": "https://maps.app.goo.gl/gtdgRkpJXourWymg6",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 48.4916961,
+      "lng": 32.2052194
+    },
+    {
+      "address": "вул. Євгена Тельнова, 1",
+      "maps_url": "https://maps.app.goo.gl/uFTErv8osP28Bisa8",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 48.5137644,
+      "lng": 32.2170865
+    },
+    {
+      "address": "вул. Пацаєва, 14",
+      "maps_url": "https://maps.app.goo.gl/8HXAcXZ81HS7bRUi8",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 48.4955112,
+      "lng": 32.2187944
+    },
+    {
+      "address": "вул. Пашутинська, 54/55",
+      "maps_url": "https://maps.app.goo.gl/s6f9jY8ivjWgMZVTA",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 48.5066718,
+      "lng": 32.2653456
+    },
+    {
+      "address": "вул. Преображенська, 2",
+      "maps_url": "https://maps.app.goo.gl/VZxs2PsEWMvkASDe9",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 48.5074293,
+      "lng": 32.2615013
+    },
+    {
+      "address": "вул. Соборна, 22",
+      "maps_url": "https://maps.app.goo.gl/r3A4DLQAeFAoX6Et8",
+      "update_day": "Четвер",
+      "update_note": "",
+      "lat": 48.5007297,
+      "lng": 32.2482787
+    }
+  ],
+  "mykolaiv": [
+    {
+      "address": "вул. 4-а Поздовжня, 85",
+      "maps_url": "https://maps.app.goo.gl/2dgyomAzNtvhJkty7",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.954142,
+      "lng": 32.0679525
+    },
+    {
+      "address": "вул. Адміральська, 21",
+      "maps_url": "https://maps.app.goo.gl/XP7BMF2J288yLwPv6",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.9760964,
+      "lng": 31.9861149
+    },
+    {
+      "address": "вул. Архітектора Старова, 2А",
+      "maps_url": "https://maps.app.goo.gl/jA1gnWudw45sEPBSA",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 47.0177346,
+      "lng": 32.0029646
+    },
+    {
+      "address": "вул. Космонавтів, 53/1",
+      "maps_url": "https://maps.app.goo.gl/Sa9G4KTba5VZNqoP7",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.9408294,
+      "lng": 32.0526643
+    },
+    {
+      "address": "вул. Космонавтів, 81",
+      "maps_url": "https://maps.app.goo.gl/6qXALyXa5LYNfDKz7",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.9682381,
+      "lng": 31.9661944
+    },
+    {
+      "address": "вул. Космонавтів, 83/1",
+      "maps_url": "https://maps.app.goo.gl/Fh7tyDKrvHYKpY3D9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.9656108,
+      "lng": 32.0777285
+    },
+    {
+      "address": "вул. Нікольська, 14",
+      "maps_url": "https://maps.app.goo.gl/G9aFAHwNKNSsD2pcA",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.978004,
+      "lng": 31.9735837
+    },
+    {
+      "address": "вул. Новоодеська, 20",
+      "maps_url": "https://maps.app.goo.gl/ad1W1eBS3ax2kGtu5",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 47.0025832,
+      "lng": 31.9943987
+    },
+    {
+      "address": "вул. Погранична, 169",
+      "maps_url": "https://maps.app.goo.gl/6jtgUgAKRYBvsjHEA",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.9562051,
+      "lng": 32.0323541
+    },
+    {
+      "address": "вул. Рюміна, 25",
+      "maps_url": "https://maps.app.goo.gl/9QEU9c8RqC3Vybby9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.9654582,
+      "lng": 31.974737
+    },
+    {
+      "address": "вул. Центральний, 122/7",
+      "maps_url": "https://maps.app.goo.gl/PBjEBbe4RdPsJifs7",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.9662377,
+      "lng": 32.0088228
+    },
+    {
+      "address": "просп. Миру, 22",
+      "maps_url": "https://maps.app.goo.gl/qA7rhGWYp9EucoY98",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.949266,
+      "lng": 32.0466495
+    },
+    {
+      "address": "просп. Миру, 2г",
+      "maps_url": "https://maps.app.goo.gl/JWmVF79nHUBzYjSQ8",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.9553244,
+      "lng": 32.0339264
+    },
+    {
+      "address": "просп. Миру, 40а",
+      "maps_url": "https://maps.app.goo.gl/h97VYk7spcmFWvuR9",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 46.9652095,
+      "lng": 32.0774121
+    },
+    {
+      "address": "просп. Центральний, 107/1",
+      "maps_url": "https://maps.app.goo.gl/rzs6YQARaxLZ7hUn6",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.9653922,
+      "lng": 32.0010155
+    },
+    {
+      "address": "просп. Центральний, 11",
+      "maps_url": "https://maps.app.goo.gl/ZCTk5v9CV4tdu1jC7",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.9682381,
+      "lng": 31.9661944
+    },
+    {
+      "address": "просп. Центральний, 184",
+      "maps_url": "https://maps.app.goo.gl/fHyVUiuYpzBGmioh9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.9653656,
+      "lng": 32.0197739
+    },
+    {
+      "address": "просп. Центральний, 25А",
+      "maps_url": "https://maps.app.goo.gl/6DY3hC1XojpCv9VX7",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 46.9665681,
+      "lng": 31.9726364
+    },
+    {
+      "address": "просп. Центральний, 69/29а",
+      "maps_url": "https://maps.app.goo.gl/1cm8KyspbvRHugbq8",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.955683,
+      "lng": 31.8835596
+    }
+  ],
+  "kherson": [
+    {
+      "address": "бульв. Мирний, 3",
+      "maps_url": "https://maps.app.goo.gl/1DqK3ctu3fJRSwpd6",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.6389622,
+      "lng": 32.6131806
+    },
+    {
+      "address": "вул.  Іллюши Кулика, 114Ж",
+      "maps_url": "https://maps.app.goo.gl/fmCiq4eSHzwaNm2D6",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.6606851,
+      "lng": 32.6375645
+    },
+    {
+      "address": "вул. 49-ї Гвардійської Дивізії",
+      "maps_url": "https://maps.app.goo.gl/yvPNbHuWeqmFzj7L8",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 46.6688443,
+      "lng": 32.6185709
+    },
+    {
+      "address": "вул. 49-ї Гвардійської Дивізії, 22а",
+      "maps_url": "https://maps.app.goo.gl/H93uArB7c6Rf58j37",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.671966,
+      "lng": 32.6179687
+    },
+    {
+      "address": "вул. Гвардійська, 138",
+      "maps_url": "https://maps.app.goo.gl/4zKzzGhGWiAerVSF7",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.626593,
+      "lng": 32.738916
+    },
+    {
+      "address": "вул. Іллюши Кулика, 33-Б",
+      "maps_url": "https://maps.app.goo.gl/w6nt71Y2ARypEzih8",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.6522151,
+      "lng": 32.6126594
+    },
+    {
+      "address": "вул. Лавреньова, 17",
+      "maps_url": "https://maps.app.goo.gl/AmKXA6Wkv4T6cgsJ9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.6481264,
+      "lng": 32.5619194
+    },
+    {
+      "address": "вул. Маяковського, 16",
+      "maps_url": "https://maps.app.goo.gl/N18eLpW1tnLxQTPw7",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 46.6398383,
+      "lng": 32.609548
+    },
+    {
+      "address": "вул. Маяковського, 22",
+      "maps_url": "https://maps.app.goo.gl/zTa1BVofgJBw7iSQ9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.6395108,
+      "lng": 32.6083825
+    },
+    {
+      "address": "вул. Маяковського, 7",
+      "maps_url": "https://maps.app.goo.gl/E7T2gFhv1bLjRQxu9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.6394371,
+      "lng": 32.6087184
+    },
+    {
+      "address": "вул. Патона, 12",
+      "maps_url": "https://maps.app.goo.gl/iDcJtw13YBPxv1zu7",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.6209895,
+      "lng": 32.5822663
+    },
+    {
+      "address": "вул. Перекопська, 168А",
+      "maps_url": "https://maps.app.goo.gl/ffuAaHZcUSAB58fCA",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.6621721,
+      "lng": 32.6592526
+    },
+    {
+      "address": "вул. Рішельєвська, 38",
+      "maps_url": "https://maps.app.goo.gl/DP9TTBXQNxuGoQPPA",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.6369439,
+      "lng": 32.6090506
+    },
+    {
+      "address": "вул. Стрітенська, 11Б",
+      "maps_url": "https://maps.app.goo.gl/mLiQRPySuqjFqvCM9",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.6475698,
+      "lng": 32.5878283
+    },
+    {
+      "address": "вул. Університетська, 157",
+      "maps_url": "https://maps.app.goo.gl/87s3JbPefNC2Jhpt8",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.6575407,
+      "lng": 32.6458337
+    },
+    {
+      "address": "вул. Університетська, 161",
+      "maps_url": "https://maps.app.goo.gl/E6yMR1Z9jkQrthQH8",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 46.6598423,
+      "lng": 32.6488123
+    },
+    {
+      "address": "просп. 200-річчя Херсона, 9",
+      "maps_url": "https://maps.app.goo.gl/vrTJxpXV9DFQFsZU6",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.6656589,
+      "lng": 32.6011694
+    },
+    {
+      "address": "просп. Будівельників, 19",
+      "maps_url": "https://maps.app.goo.gl/jZavzSpuCNsRuWG89",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.6507112,
+      "lng": 32.5636285
+    },
+    {
+      "address": "просп. Святих Кирила і Мефодія, 9",
+      "maps_url": "https://maps.app.goo.gl/7L421XLjpRgBzK488",
+      "update_day": "Оновлення невідомо коли",
+      "update_note": "",
+      "lat": 46.6431568,
+      "lng": 32.5581609
+    },
+    {
+      "address": "просп. Ушакова, 57",
+      "maps_url": "https://maps.app.goo.gl/TyiF98yUtTsGLV5g9",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 46.6441589,
+      "lng": 32.6115029
+    },
+    {
+      "address": "шосе Миколаївське, 15",
+      "maps_url": "https://maps.app.goo.gl/JTeXmMs4prJxsF28A",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 46.6503378,
+      "lng": 32.5976383
+    },
+    {
+      "address": "шосе Миколаївське, 2",
+      "maps_url": "https://maps.app.goo.gl/8Z673rsJ9wmqFTtx9",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 46.6509746,
+      "lng": 32.596185
+    }
+  ]
+}
