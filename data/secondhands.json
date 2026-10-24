@@ -257,18 +257,12 @@
       "lng": 24.0253315
     },
     {
-      "address": "вул. Симона Петлюри, 2А",
-      "maps_url": "https://goo.gl/maps/AwPAktm4xgaSCjCC6",
-      "update_day": "Четвер",
-      "update_note": "раз в два тижні",
-      "lat": 49.82293382989766,
-      "lng": 23.979100163388075
-    },
-    {
       "address": "вул. Симона Петлюри, 3",
-      "maps_url": "https://maps.app.goo.gl/kD77y8swc4CBPM7VA?g_st=ic",
+      "maps_url": "https://maps.app.goo.gl/kD77y8swc4CBPM7VA",
       "update_day": "Вівторок",
-      "update_note": ""
+      "update_note": "",
+      "lat": 49.82307305610801,
+      "lng": 23.979043255822557
     },
     {
       "address": "вул. Сихівська, 13",
