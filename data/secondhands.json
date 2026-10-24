@@ -261,8 +261,8 @@
       "maps_url": "https://goo.gl/maps/AwPAktm4xgaSCjCC6",
       "update_day": "Четвер",
       "update_note": "раз в два тижні",
-      "lat": 49.8219,
-      "lng": 23.9787
+      "lat": 49.82293382989766,
+      "lng": 23.979100163388075
     },
     {
       "address": "вул. Симона Петлюри, 3",
@@ -561,14 +561,6 @@
       "update_note": "",
       "lat": 50.465315,
       "lng": 30.354279
-    },
-    {
-      "address": "вул. Академіка Курчатова, 20, 1 поверх",
-      "maps_url": "https://maps.app.goo.gl/cvRDcmuvBkBuDjfP7",
-      "update_day": "Понеділок",
-      "update_note": "раз на пʼять тижнів",
-      "lat": 47.4873964,
-      "lng": 34.651953
     },
     {
       "address": "вул. Амвросія Бучми, 6А",
