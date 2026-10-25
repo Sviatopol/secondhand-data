@@ -258,9 +258,11 @@
     },
     {
       "address": "вул. Симона Петлюри, 3",
-      "maps_url": "https://maps.app.goo.gl/kD77y8swc4CBPM7VA?g_st=ic",
+      "maps_url": "https://maps.app.goo.gl/KtJVKSAqHEvj1NTq5",
       "update_day": "Вівторок",
-      "update_note": ""
+      "update_note": "",
+      "lat": 49.8229959,
+      "lng": 23.9791039
     },
     {
       "address": "вул. Сихівська, 13",
@@ -308,7 +310,9 @@
       "update_day": "Субота",
       "update_note": "",
       "lat": 49.7979052,
-      "lng": 24.0184686
+      "lng": 24.0184686,
+      "network": "EUROMARKA",
+      "lux_day": "Неділя"
     },
     {
       "address": "вул. Цехова, 1",
