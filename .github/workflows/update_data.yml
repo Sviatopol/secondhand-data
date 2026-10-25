@@ -17,7 +17,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install gspread
+        run: pip install gspread requests
 
       - name: Write credentials
         run: echo '${{ secrets.GOOGLE_CREDS }}' > creds.json
