@@ -33,28 +33,12 @@
       "lng": 23.9739055
     },
     {
-      "address": "вул. Володимира Великого, 26A",
-      "maps_url": "https://goo.gl/maps/bFECpNFMmvqdVp2h7",
-      "update_day": "П'ятниця",
-      "update_note": "",
-      "lat": 49.8111017,
-      "lng": 23.9958576
-    },
-    {
       "address": "вул. Володимира Великого, 34",
       "maps_url": "https://goo.gl/maps/jpFZhLzHTnF75J1cA",
       "update_day": "Четвер",
       "update_note": "раз в два тижні",
       "lat": 49.8112707,
       "lng": 23.9937866
-    },
-    {
-      "address": "вул. Володимира Великого, 51",
-      "maps_url": "https://goo.gl/maps/FCjYKZaPTjDxX71m8",
-      "update_day": "Вівторок",
-      "update_note": "",
-      "lat": 49.8097962,
-      "lng": 24.002381
     },
     {
       "address": "вул. Володимира Великого, 59А",
@@ -457,6 +441,14 @@
       "update_note": "",
       "lat": 49.7850531,
       "lng": 24.0604385
+    },
+    {
+      "address": "вул. Княгині Ольги, 114",
+      "maps_url": "https://maps.app.goo.gl/b8JpirRYRZF5HhjL8",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 49.8102629,
+      "lng": 23.9978875
     }
   ],
   "if": [
