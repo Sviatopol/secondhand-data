@@ -121,12 +121,13 @@
       "lng": 24.064476
     },
     {
-      "address": "вул. Княгині Ольги, 114 (ринок \"Провесінь\")",
-      "maps_url": "https://goo.gl/maps/yL2KMciefpgvrZFs7",
+      "address": "вул. Княгині Ольги, 112 (ринок \"Провесінь\", біля Аквапарку)",
+      "maps_url": "https://maps.app.goo.gl/Jt9NuHoYhbNqqQz37",
       "update_day": "Середа",
       "update_note": "",
-      "lat": 49.8075741,
-      "lng": 23.9977826
+      "lat": 49.8070839,
+      "lng": 23.9975531,
+      "lux_day": "Четвер"
     },
     {
       "address": "вул. Котлярська, 6",
