@@ -249,14 +249,6 @@
       "lng": 23.9791039
     },
     {
-      "address": "вул. Сихівська, 13",
-      "maps_url": "https://goo.gl/maps/u9LTpqJeJtYtpYCY8",
-      "update_day": "Четвер",
-      "update_note": "",
-      "lat": 49.7936475,
-      "lng": 24.061735
-    },
-    {
       "address": "вул. Сихівська, 18 (2 поверх)",
       "maps_url": "https://goo.gl/maps/aAdmYxowoQGwdkVLA",
       "update_day": "Понеділок",
@@ -449,6 +441,26 @@
       "update_note": "",
       "lat": 49.8102629,
       "lng": 23.9978875
+    },
+    {
+      "address": "вул. Олександра Довженка, 2",
+      "maps_url": "https://maps.app.goo.gl/ziDUJ6Cq1s1o5GYR6?g_st=ai",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 49.7967051,
+      "lng": 24.0539834,
+      "network": "Євро Секонд Хенд",
+      "lux_day": "Середа"
+    },
+    {
+      "address": "вул. Сихівська, 18",
+      "maps_url": "https://maps.app.goo.gl/DHtjxTVYVMvYFgtT7?g_st=ac",
+      "update_day": "П'ятниця",
+      "update_note": "",
+      "lat": 49.79484689,
+      "lng": 24.06366346,
+      "network": "Євро Секонд Хенд",
+      "lux_day": "П'ятниця"
     }
   ],
   "if": [
@@ -1053,6 +1065,15 @@
       "update_note": "раз на пʼять тижнів",
       "lat": 50.439032,
       "lng": 30.6283221
+    },
+    {
+      "address": "вул. Данила Щербаківського, 52",
+      "maps_url": "https://maps.app.goo.gl/XgUgH781DEHcBMrPA",
+      "update_day": "Пʼятниця",
+      "update_note": "",
+      "lat": 50.4708804,
+      "lng": 30.406413,
+      "lux_day": "Субота"
     }
   ],
   "ternopil": [
