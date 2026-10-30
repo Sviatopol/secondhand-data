@@ -57,12 +57,12 @@
       "lng": 24.0001272
     },
     {
-      "address": "вул. Галицька, 18 (Винники)",
-      "maps_url": "https://goo.gl/maps/XgkoYoqr1D8iYkMw6",
+      "address": "вул. Галицька, 31 (Винники)",
+      "maps_url": "https://maps.app.goo.gl/airGKWw3LisYJmq68",
       "update_day": "Вівторок",
       "update_note": "",
-      "lat": 49.8168154,
-      "lng": 24.137551
+      "lat": 49.81713429,
+      "lng": 24.13881159
     },
     {
       "address": "вул. Героїв УПА, 73",
@@ -462,6 +462,16 @@
       "lat": 49.79484689,
       "lng": 24.06366346,
       "network": "Євро Секонд Хенд",
+      "lux_day": "П'ятниця"
+    },
+    {
+      "address": "вул. Личаківська, 201",
+      "maps_url": "https://maps.app.goo.gl/4hP2t4YyR8APzNdq7",
+      "update_day": "П'ятниця",
+      "update_note": "",
+      "lat": 49.8360603,
+      "lng": 24.0717151,
+      "network": "EconomClass",
       "lux_day": "П'ятниця"
     }
   ],
