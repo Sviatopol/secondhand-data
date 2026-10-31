@@ -73,12 +73,14 @@
       "lng": 23.9908187
     },
     {
-      "address": "вул. Гетьмана Мазепи, 11б",
+      "address": "вул. Гетьмана Мазепи, 11В",
       "maps_url": "https://goo.gl/maps/BpGnytxwjDcRcXeC8",
       "update_day": "Четвер",
       "update_note": "",
       "lat": 49.870962,
-      "lng": 24.0325217
+      "lng": 24.0325217,
+      "network": "EconomClass",
+      "lux_day": "Пʼятниця"
     },
     {
       "address": "вул. Городоцька, 45",
@@ -103,14 +105,6 @@
       "update_note": "",
       "lat": 49.8357307,
       "lng": 24.0014174
-    },
-    {
-      "address": "вул. Драгана, 4",
-      "maps_url": "https://goo.gl/maps/itQJwnEK4uqkH4T18",
-      "update_day": "Субота",
-      "update_note": "",
-      "lat": 49.7851936,
-      "lng": 24.057194
     },
     {
       "address": "вул. Івана Кавалерідзе, 6",
@@ -155,12 +149,13 @@
       "lng": 23.969197
     },
     {
-      "address": "вул. Мазепи, 26",
-      "maps_url": "https://goo.gl/maps/KgEPqPGiBpLSdVZNA",
+      "address": "вул. Гетьмана Мазепи, 24",
+      "maps_url": "https://maps.app.goo.gl/2ejkaQBZzRwqfjsM8",
       "update_day": "Четвер",
       "update_note": "",
-      "lat": 49.871349,
-      "lng": 24.0410011
+      "lat": 49.8713477,
+      "lng": 24.0397526,
+      "network": "Світ Секонд-Хенду"
     },
     {
       "address": "вул. Медової Печери, 1",
@@ -192,7 +187,8 @@
       "update_day": "Четвер",
       "update_note": "раз в два тижні",
       "lat": 49.8042192,
-      "lng": 23.9871565
+      "lng": 23.9871565,
+      "network": "Світ Секонд-Хенду"
     },
     {
       "address": "вул. Наукова, 64А",
@@ -376,7 +372,7 @@
       "address": "пр. В'ячеслава Чорновола, 45",
       "maps_url": "https://goo.gl/maps/g17PxeXvtxo6fCqz5",
       "update_day": "Понеділок",
-      "update_note": "",
+      "update_note": "раз в два тижні",
       "lat": 49.8550172,
       "lng": 24.0220343
     },
@@ -410,7 +406,8 @@
       "update_day": "Вівторок",
       "update_note": "",
       "lat": 49.7970509,
-      "lng": 24.0536569
+      "lng": 24.0536569,
+      "network": "Євро Тренд"
     },
     {
       "address": "пр. Червоної Калини, 66А",
@@ -473,6 +470,117 @@
       "lng": 24.0717151,
       "network": "EconomClass",
       "lux_day": "П'ятниця"
+    },
+    {
+      "address": "вул. Богдана Хмельницького, 275",
+      "maps_url": "https://maps.app.goo.gl/sKCbo6KS232AXGi96",
+      "update_day": "Вівторок",
+      "update_note": "",
+      "lat": 49.8745187,
+      "lng": 24.0604515,
+      "network": "EconomClass",
+      "lux_day": "Середа"
+    },
+    {
+      "address": "пр. Чорновола, 67",
+      "maps_url": "https://maps.app.goo.gl/mCc9bRgA4jBs2EuR6",
+      "update_day": "П'ятниця",
+      "update_note": "",
+      "lat": 49.8596311,
+      "lng": 24.0191562,
+      "network": "EconomClass",
+      "lux_day": "Субота"
+    },
+    {
+      "address": "вул. Драгана, 2",
+      "maps_url": "https://maps.app.goo.gl/rehrifj9Lvbe86NC8",
+      "update_day": "Субота",
+      "update_note": "",
+      "lat": 49.7851936,
+      "lng": 24.057194,
+      "network": "EconomClass",
+      "lux_day": "Неділя"
+    },
+    {
+      "address": "вул. Княгині Ольги, 5а",
+      "maps_url": "https://maps.app.goo.gl/nrBALVjWwy34D6mm9",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 49.8222958,
+      "lng": 24.007113,
+      "network": "Humana"
+    },
+    {
+      "address": "вул. Тараса Шевченка, 31",
+      "maps_url": "https://maps.app.goo.gl/bKQAZUqu58D44gHJ9",
+      "update_day": "Понеділок",
+      "update_note": "раз на пʼять тижнів",
+      "lat": 49.8457228,
+      "lng": 24.0065057,
+      "network": "Humana"
+    },
+    {
+      "address": "пр. В'ячеслава Чорновола, 101",
+      "maps_url": "https://maps.app.goo.gl/m9DPs7QoRNpKHCSe8",
+      "update_day": "Понеділок",
+      "update_note": "раз в два тижні",
+      "lat": 49.8654999,
+      "lng": 24.015622,
+      "network": "Світ Секонд-Хенду"
+    },
+    {
+      "address": "вулиця Горської, 2а",
+      "maps_url": "https://maps.app.goo.gl/AufXmm9SDXMGXq6p9",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 49.8355677,
+      "lng": 24.0002858,
+      "network": "Євро Тренд"
+    },
+    {
+      "address": "вул. Богдана Хмельницького, 176",
+      "maps_url": "https://maps.app.goo.gl/tpz8bpeDg8iHkLpd6",
+      "update_day": "П'ятниця",
+      "update_note": "",
+      "lat": 49.8618242,
+      "lng": 24.0512992,
+      "network": "Євро Тренд"
+    },
+    {
+      "address": "вул. Любінська, 100",
+      "maps_url": "https://maps.app.goo.gl/q1KK6N2iAKnvPDjJ6",
+      "update_day": "Середа",
+      "update_note": "раз в два тижні",
+      "lat": 49.8226226,
+      "lng": 23.9732818,
+      "network": "Світ Секонд-Хенду"
+    },
+    {
+      "address": "вул. Грінченка, 6",
+      "maps_url": "https://maps.app.goo.gl/W2tfVydzMqSAPzJ86",
+      "update_day": "П'ятниця",
+      "update_note": "",
+      "lat": 49.872786,
+      "lng": 24.0519235,
+      "network": "Світ Секонд-Хенду"
+    },
+    {
+      "address": "вул. Шевченка, 358",
+      "maps_url": "https://maps.app.goo.gl/D3CWsRspPoS2TfTN9",
+      "update_day": "Субота",
+      "update_note": "раз в два тижні",
+      "lat": 49.8684456,
+      "lng": 23.952434,
+      "network": "Світ Секонд-Хенду"
+    },
+    {
+      "address": "вул. Джорджа Вашингтона, 5А",
+      "maps_url": "https://maps.app.goo.gl/xrtnN7S9nmF4LFUN6",
+      "update_day": "Субота",
+      "update_note": "раз в два тижні",
+      "lat": 49.8164534,
+      "lng": 24.0691551,
+      "network": "Світ Секонд-Хенду"
     }
   ],
   "if": [
