@@ -1308,6 +1308,22 @@
       "update_note": "",
       "lat": 49.5499414,
       "lng": 25.6215733
+    },
+    {
+      "address": "вул. Миру, 1",
+      "maps_url": "https://maps.app.goo.gl/U4FcKqYR6s4eYL8j6",
+      "update_day": "Понеділок",
+      "update_note": "",
+      "lat": 49.5454621,
+      "lng": 25.5704962
+    },
+    {
+      "address": "вул. Руська, 10",
+      "maps_url": "https://maps.app.goo.gl/hqsxVhHqoAaGaJ7T7",
+      "update_day": "Середа",
+      "update_note": "",
+      "lat": 49.55029982,
+      "lng": 25.58723615
     }
   ],
   "dnipro": [
