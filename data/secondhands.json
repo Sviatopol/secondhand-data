@@ -1096,10 +1096,11 @@
     {
       "address": "просп. Миколи Бажана, 3",
       "maps_url": "https://maps.app.goo.gl/Fa4Tue1reZqdDmhf8",
-      "update_day": "Понеділок",
-      "update_note": "раз на пʼять тижнів",
+      "update_day": "Четвер",
+      "update_note": "",
       "lat": 50.4024242,
-      "lng": 30.6553712
+      "lng": 30.6553712,
+      "network": "EconomClass"
     },
     {
       "address": "просп. Науки, 35, 1 поверї",
