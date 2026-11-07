@@ -238,7 +238,8 @@
       "update_day": "Понеділок",
       "update_note": "раз на пʼять тижнів",
       "lat": 49.8402153,
-      "lng": 24.0275202
+      "lng": 24.0275202,
+      "network": "Humana"
     },
     {
       "address": "вул. Симона Петлюри, 3",
@@ -254,7 +255,8 @@
       "update_day": "Понеділок",
       "update_note": "раз на пʼять тижнів",
       "lat": 49.794743,
-      "lng": 24.063642
+      "lng": 24.063642,
+      "network": "Humana"
     },
     {
       "address": "вул. Словацького, 14",
@@ -392,7 +394,8 @@
       "update_day": "Понеділок",
       "update_note": "раз на пʼять тижнів",
       "lat": 49.8632811,
-      "lng": 24.0167166
+      "lng": 24.0167166,
+      "network": "Humana"
     },
     {
       "address": "пр. Червоної Калини, 105",
@@ -600,6 +603,24 @@
       "lat": 49.821748,
       "lng": 23.978753,
       "network": "Світ Секонд-Хенду"
+    },
+    {
+      "address": "вул. Зелена, 69а",
+      "maps_url": "https://maps.app.goo.gl/KMXL2XwkRyyY5CTo8",
+      "update_day": "Без фіксованого дня оновлення",
+      "update_note": "",
+      "lat": 49.8304521,
+      "lng": 24.0442431,
+      "network": "Birka! LUX"
+    },
+    {
+      "address": "вул. Петра Дорошенка, 15",
+      "maps_url": "https://maps.app.goo.gl/1gZkX1eDJKCYE6im7",
+      "update_day": "Без фіксованого дня оновлення",
+      "update_note": "",
+      "lat": 49.8396651,
+      "lng": 24.0265511,
+      "network": "СЕКОНД ХЕНД БОМБА"
     }
   ],
   "if": [
