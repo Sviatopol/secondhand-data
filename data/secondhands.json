@@ -621,6 +621,24 @@
       "lat": 49.8396651,
       "lng": 24.0265511,
       "network": "СЕКОНД ХЕНД БОМБА"
+    },
+    {
+      "address": "вул. Володимира Винниченка, 6",
+      "maps_url": "https://maps.app.goo.gl/m5cNmtMDJ2EeTSoe6",
+      "update_day": "Без фіксованого дня оновлення",
+      "update_note": "",
+      "lat": 49.8392699,
+      "lng": 24.0356989,
+      "network": "СЕКОНД ХЕНД БОМБА"
+    },
+    {
+      "address": "вул. Стрийська, 61",
+      "maps_url": "https://maps.app.goo.gl/DLJhz2snWBr7xSJy8",
+      "update_day": "Без фіксованого дня оновлення",
+      "update_note": "",
+      "lat": 49.7952252,
+      "lng": 24.0178032,
+      "network": "Модна точка"
     }
   ],
   "if": [
