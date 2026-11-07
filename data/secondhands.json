@@ -611,7 +611,7 @@
       "update_note": "",
       "lat": 49.8304521,
       "lng": 24.0442431,
-      "network": "Birka! LUX"
+      "network": "Birka!Lux"
     },
     {
       "address": "вул. Петра Дорошенка, 15",
@@ -638,6 +638,50 @@
       "update_note": "",
       "lat": 49.7952252,
       "lng": 24.0178032,
+      "network": "Модна точка"
+    },
+    {
+      "address": "вул. Патона, 2",
+      "maps_url": "https://maps.app.goo.gl/5Z7ZxyW1CmrW1zDr9",
+      "update_day": "Без фіксованого дня оновлення",
+      "update_note": "",
+      "lat": 49.8230331,
+      "lng": 23.9611001,
+      "network": "СекондМікс"
+    },
+    {
+      "address": "вул. Зелена, 3",
+      "maps_url": "https://maps.app.goo.gl/EGRQhoCHvgoPmvN48",
+      "update_day": "Без фіксованого дня оновлення",
+      "update_note": "",
+      "lat": 49.834485,
+      "lng": 24.0352681
+    },
+    {
+      "address": "вул. Городоцька, 94",
+      "maps_url": "https://maps.app.goo.gl/Xbo563KmWkJkHpJP6",
+      "update_day": "Без фіксованого дня оновлення",
+      "update_note": "",
+      "lat": 49.8377694,
+      "lng": 24.0053674,
+      "network": "ЄвроБренд"
+    },
+    {
+      "address": "вул. Городоцька, 33",
+      "maps_url": "https://maps.app.goo.gl/aJE3M8yCvygFvTzX9",
+      "update_day": "Без фіксованого дня оновлення",
+      "update_note": "",
+      "lat": 49.8429349,
+      "lng": 24.0214854,
+      "network": "ЄвроБренд"
+    },
+    {
+      "address": "вул. Пасічна, 96А",
+      "maps_url": "https://maps.app.goo.gl/XSXHCaTqCMMH6aFR9",
+      "update_day": "Без фіксованого дня оновлення",
+      "update_note": "",
+      "lat": 49.816858,
+      "lng": 24.076676,
       "network": "Модна точка"
     }
   ],
