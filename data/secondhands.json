@@ -84,14 +84,6 @@
       "lux_day": "Пʼятниця"
     },
     {
-      "address": "вул. Городоцька, 45",
-      "maps_url": "https://goo.gl/maps/DPogYpDAsYwGgURb6",
-      "update_day": "Вівторок",
-      "update_note": "",
-      "lat": 49.8426459,
-      "lng": 24.0194475
-    },
-    {
       "address": "вул. Городоцька, 67",
       "maps_url": "https://goo.gl/maps/3RxC8MvwDVv7LK5R7",
       "update_day": "Четвер",
@@ -333,28 +325,12 @@
       "lng": 23.9687655
     },
     {
-      "address": "вул. Шолом Алейхема, 20",
-      "maps_url": "https://goo.gl/maps/n419HW81PkQTuyuS8",
-      "update_day": "Вівторок",
-      "update_note": "",
-      "lat": 49.8449171,
-      "lng": 24.0203646
-    },
-    {
       "address": "вул. Шота Руставелі, 42",
       "maps_url": "https://goo.gl/maps/fafw8FKwt5mNUA9R8",
       "update_day": "Середа",
       "update_note": "",
       "lat": 49.8298782,
       "lng": 24.0323124
-    },
-    {
-      "address": "вул. Шпитальна, 11",
-      "maps_url": "https://goo.gl/maps/yV6yHp7ftihWDoaGA",
-      "update_day": "Середа",
-      "update_note": "",
-      "lat": 49.8446125,
-      "lng": 24.022738
     },
     {
       "address": "пл. Липнева, 6",
@@ -664,7 +640,7 @@
       "update_note": "",
       "lat": 49.8377694,
       "lng": 24.0053674,
-      "network": "ЄвроБренд"
+      "network": "Євро Секонд Хенд"
     },
     {
       "address": "вул. Городоцька, 33",
