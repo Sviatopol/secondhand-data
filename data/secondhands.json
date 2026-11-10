@@ -923,18 +923,6 @@
       "lux_day": null,
       "lat": 49.816858,
       "lng": 24.076676
-    },
-    {
-      "id": null,
-      "address": "Тест",
-      "city": "Львів",
-      "maps_url": "https://maps.app.goo.gl/87YDxdxzVjNtR1cF9",
-      "update_day": null,
-      "update_note": "Без фіксованого дня оновлення",
-      "network": "Тест",
-      "lux_day": null,
-      "lat": 49.83832355,
-      "lng": 24.03194112
     }
   ],
   "Івано-Франківськ": [
