@@ -69,8 +69,8 @@
       "update_note": null,
       "network": null,
       "lux_day": null,
-      "lat": 49.8083724,
-      "lng": 24.0001307
+      "lat": 49.80812,
+      "lng": 23.9988691
     },
     {
       "id": 7,
@@ -93,8 +93,8 @@
       "update_note": null,
       "network": null,
       "lux_day": null,
-      "lat": 49.8171342893835,
-      "lng": 24.1388115941441
+      "lat": 49.81713429,
+      "lng": 24.13881159
     },
     {
       "id": 9,
@@ -116,7 +116,7 @@
       "update_day": "Четвер",
       "update_note": null,
       "network": "EconomClass",
-      "lux_day": "Пʼятниця",
+      "lux_day": "П'ятниця",
       "lat": 49.870962,
       "lng": 24.0325217
     },
@@ -573,8 +573,8 @@
       "update_note": null,
       "network": null,
       "lux_day": null,
-      "lat": 49.790731,
-      "lng": 24.0580887
+      "lat": 49.7910354,
+      "lng": 24.0559005
     },
     {
       "id": 49,
@@ -633,8 +633,8 @@
       "update_note": null,
       "network": "Євро Секонд Хенд",
       "lux_day": "П'ятниця",
-      "lat": 49.7948468863099,
-      "lng": 24.0636634576728
+      "lat": 49.79484689,
+      "lng": 24.06366346
     },
     {
       "id": 54,
@@ -801,8 +801,8 @@
       "update_note": null,
       "network": null,
       "lux_day": null,
-      "lat": 49.8230331,
-      "lng": 23.9611001
+      "lat": 49.823043459461026,
+      "lng": 23.96110685
     },
     {
       "id": 68,
@@ -923,6 +923,18 @@
       "lux_day": null,
       "lat": 49.816858,
       "lng": 24.076676
+    },
+    {
+      "id": null,
+      "address": "Тест",
+      "city": "Львів",
+      "maps_url": "https://maps.app.goo.gl/87YDxdxzVjNtR1cF9",
+      "update_day": null,
+      "update_note": "Без фіксованого дня оновлення",
+      "network": "Тест",
+      "lux_day": null,
+      "lat": 49.83832355,
+      "lng": 24.03194112
     }
   ],
   "Івано-Франківськ": [
@@ -2007,8 +2019,8 @@
       "update_note": null,
       "network": null,
       "lux_day": null,
-      "lat": 49.550299823001,
-      "lng": 25.5872361464134
+      "lat": 49.55029982,
+      "lng": 25.58723615
     }
   ],
   "Дніпро": [
@@ -2733,8 +2745,8 @@
       "update_note": null,
       "network": null,
       "lux_day": null,
-      "lat": 49.9823481,
-      "lng": 36.2410067
+      "lat": 49.9823313,
+      "lng": 36.2408519
     },
     {
       "id": 228,
@@ -3348,7 +3360,7 @@
       "network": null,
       "lux_day": null,
       "lat": 50.621817,
-      "lng": 26.2452385
+      "lng": 26.2426636
     },
     {
       "id": 279,
@@ -3371,8 +3383,8 @@
       "update_note": "Оновлення невідомо коли",
       "network": null,
       "lux_day": null,
-      "lat": 50.6160926,
-      "lng": 26.2753394
+      "lat": 50.6168532,
+      "lng": 26.249059
     },
     {
       "id": 281,
@@ -3383,8 +3395,8 @@
       "update_note": null,
       "network": null,
       "lux_day": null,
-      "lat": 50.6160926,
-      "lng": 26.2753394
+      "lat": 50.6160296,
+      "lng": 26.2746223
     },
     {
       "id": 282,
@@ -3408,7 +3420,7 @@
       "network": null,
       "lux_day": null,
       "lat": 50.6383398,
-      "lng": 26.2021535
+      "lng": 26.1995786
     },
     {
       "id": 284,
@@ -3444,7 +3456,7 @@
       "network": null,
       "lux_day": null,
       "lat": 50.618502,
-      "lng": 26.2584199
+      "lng": 26.2393655
     },
     {
       "id": 287,
@@ -3491,8 +3503,8 @@
       "update_note": "Оновлення невідомо коли",
       "network": null,
       "lux_day": null,
-      "lat": 50.6357226,
-      "lng": 26.2124392
+      "lat": 50.6356818,
+      "lng": 26.2093957
     },
     {
       "id": 291,
@@ -3539,8 +3551,8 @@
       "update_note": "Оновлення невідомо коли",
       "network": null,
       "lux_day": null,
-      "lat": 50.612541,
-      "lng": 26.2661292
+      "lat": 50.625427,
+      "lng": 26.2135782
     },
     {
       "id": 295,
@@ -3819,8 +3831,8 @@
       "update_note": null,
       "network": null,
       "lux_day": null,
-      "lat": 50.762131,
-      "lng": 25.3732262
+      "lat": 50.7621711,
+      "lng": 25.3731287
     },
     {
       "id": 318,
@@ -3867,8 +3879,8 @@
       "update_note": null,
       "network": "EUROMARKA",
       "lux_day": "Середа",
-      "lat": 50.7447029686229,
-      "lng": 25.3229970009365
+      "lat": 50.74470297,
+      "lng": 25.322997
     },
     {
       "id": 322,
