@@ -7,15 +7,61 @@ CREDS_FILE = 'creds.json'
 SPREADSHEET_ID = '1BjqBFI80c9MrCZpH-9rS5fpXjdQyiIF4lOADrWOnHCU'
 OUTPUT_DIR = 'data'
 
-def parse_update_day(raw):
-    """Витягує основний день і частоту оновлення."""
-    raw = raw.strip()
-    day = re.sub(r'\(.*?\)', '', raw).strip()
-    note = ''
-    match = re.search(r'\((.*?)\)', raw)
-    if match:
-        note = match.group(1).strip()
-    return day, note
+# Відповідність назви листа → українська назва міста
+CITY_UA = {
+    'Lviv': 'Львів',
+    'IF': 'Івано-Франківськ',
+    'Kyiv': 'Київ',
+    'Ternopil': 'Тернопіль',
+    'Dnipro': 'Дніпро',
+    'Odesa': 'Одеса',
+    'Kharkiv': 'Харків',
+    'Rivne': 'Рівне',
+    'Chernivtsi': 'Чернівці',
+    'Lutsk': 'Луцьк',
+    'Zhytomyr': 'Житомир',
+    'Khmelnytskyi': 'Хмельницький',
+    'Uzhgorod': 'Ужгород',
+    'Vinnytsia': 'Вінниця',
+    'Cherkasy': 'Черкаси',
+    'Poltava': 'Полтава',
+    'Chernihiv': 'Чернігів',
+    'Sumy': 'Суми',
+    'Kropyvnytskyi': 'Кропивницький',
+    'Mykolaiv': 'Миколаїв',
+    'Kherson': 'Херсон',
+}
+
+# Нормалізація назв днів → стандартні українські (як в index.html)
+DAY_NORMALIZE = {
+    "Понеділок": "Понеділок",
+    "Вівторок": "Вівторок",
+    "Середа": "Середа",
+    "Четвер": "Четвер",
+    "П'ятниця": "П'ятниця",   # звичайний апостроф
+    "Пʼятниця": "П'ятниця",   # типографічний апостроф
+    "Субота": "Субота",
+    "Неділя": "Неділя",
+    # англійські варіанти (на всяк випадок)
+    "monday": "Понеділок",
+    "tuesday": "Вівторок",
+    "wednesday": "Середа",
+    "thursday": "Четвер",
+    "friday": "П'ятниця",
+    "saturday": "Субота",
+    "sunday": "Неділя",
+}
+
+def parse_day(raw):
+    """Повертає (нормалізований_день, примітка)."""
+    if not raw:
+        return None, None
+    raw = str(raw).strip()
+    for key, normalized in DAY_NORMALIZE.items():
+        if raw.lower().startswith(key.lower()):
+            note = raw[len(key):].strip().lstrip("(").rstrip(")").strip()
+            return normalized, note or None
+    return None, raw  # невідомий день → день=None, примітка=весь рядок
 
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -30,43 +76,51 @@ def main():
     worksheets = [ws for ws in sh.worksheets() if ws.title.endswith('_All')]
 
     for ws in worksheets:
-        city_key = ws.title.replace('_All', '').lower()
-        print(f"Обробляємо {ws.title}...")
+        sheet_city = ws.title.replace('_All', '')
+        city_ua = CITY_UA.get(sheet_city, sheet_city)  # якщо немає в словнику — лишаємо як є
+        print(f"Обробляємо {ws.title} → {city_ua}...")
 
         rows = ws.get_all_records()
         city_data = []
 
         for row in rows:
-            url = str(row.get('Посилання', '')).strip()
-            address = str(row.get('Адреса', '')).strip()
-            raw_day = str(row.get('День оновлення', '')).strip()
-            lat = row.get('lat', '')
-            lng = row.get('lng', '')
-            store_id = row.get('ID', '') or row.get('id', '')
-
+            address = str(row.get('Адреса', '') or '').strip()
             if not address:
                 continue
 
-            day, note = parse_update_day(raw_day)
+            url = str(row.get('Посилання', '') or '').strip()
+            raw_day = str(row.get('День оновлення', '') or '').strip()
+            lat_raw = row.get('lat', '') or row.get('Lat', '') or ''
+            lng_raw = row.get('lng', '') or row.get('Lng', '') or ''
+            store_id = row.get('ID', '') or row.get('id', '') or ''
+            network = str(row.get('Мережа', '') or row.get('network', '') or '').strip() or None
+            lux_day_raw = str(row.get('День люкс', '') or row.get('lux_day', '') or '').strip()
+
+            update_day, update_note = parse_day(raw_day)
+            lux_day, _ = parse_day(lux_day_raw)
 
             entry = {
                 'id': int(store_id) if str(store_id).strip().isdigit() else None,
                 'address': address,
+                'city': city_ua,
                 'maps_url': url,
-                'update_day': day,
-                'update_note': note,
+                'update_day': update_day,
+                'update_note': update_note,
+                'network': network,
+                'lux_day': lux_day,
             }
 
-            if lat and lng:
+            # Координати — беремо з таблиці якщо є
+            if lat_raw and lng_raw:
                 try:
-                    entry['lat'] = float(lat)
-                    entry['lng'] = float(lng)
-                except:
+                    entry['lat'] = float(str(lat_raw).replace(',', '.'))
+                    entry['lng'] = float(str(lng_raw).replace(',', '.'))
+                except (ValueError, TypeError):
                     pass
 
             city_data.append(entry)
 
-        all_data[city_key] = city_data
+        all_data[city_ua] = city_data
         print(f"  {len(city_data)} записів")
 
     # Зберігаємо один загальний файл
