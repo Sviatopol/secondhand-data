@@ -671,8 +671,8 @@
       "maps_url": "https://maps.app.goo.gl/qnqkKbBj4Y8ZtWRg9",
       "update_day": "П'ятниця",
       "update_note": null,
-      "network": null,
-      "lux_day": null,
+      "network": "EconomClass",
+      "lux_day": "Субота",
       "lat": 50.2513405,
       "lng": 28.6700846
     },
@@ -683,8 +683,8 @@
       "maps_url": "https://maps.app.goo.gl/JqkxjdtZTi1iqhNC9",
       "update_day": null,
       "update_note": "Оновлення невідомо коли",
-      "network": null,
-      "lux_day": null,
+      "network": "EconomClass",
+      "lux_day": "П'ятниця",
       "lat": 50.2461625,
       "lng": 28.6819349
     },
@@ -699,6 +699,18 @@
       "lux_day": null,
       "lat": 50.2458632,
       "lng": 28.6824287
+    },
+    {
+      "id": 468,
+      "address": "вул. Домбровського, 34",
+      "city": "Житомир",
+      "maps_url": "https://maps.app.goo.gl/mC99ywsDeJUcXrBk9",
+      "update_day": "Середа",
+      "update_note": null,
+      "network": "EconomClass",
+      "lux_day": "Четвер",
+      "lat": 50.26755216,
+      "lng": 28.65875709
     },
     {
       "id": 328,
@@ -743,8 +755,8 @@
       "maps_url": "https://maps.app.goo.gl/P4HbmNaUfFgWrYa28",
       "update_day": "Четвер",
       "update_note": null,
-      "network": null,
-      "lux_day": null,
+      "network": "EconomClass",
+      "lux_day": "П'ятниця",
       "lat": 50.257618,
       "lng": 28.6674753
     },
@@ -755,8 +767,8 @@
       "maps_url": "https://maps.app.goo.gl/fE76cnieJnn2ALgv7",
       "update_day": "Субота",
       "update_note": null,
-      "network": null,
-      "lux_day": null,
+      "network": "EconomClass",
+      "lux_day": "Неділя",
       "lat": 50.2678748,
       "lng": 28.6904742
     },
@@ -767,10 +779,22 @@
       "maps_url": "https://maps.app.goo.gl/ageLuz2ryHrRRuFf6",
       "update_day": "Вівторок",
       "update_note": null,
-      "network": null,
-      "lux_day": null,
+      "network": "EconomClass",
+      "lux_day": "Середа",
       "lat": 50.2590982,
       "lng": 28.6693055
+    },
+    {
+      "id": 467,
+      "address": "вул. Покровська, 125,",
+      "city": "Житомир",
+      "maps_url": "https://maps.app.goo.gl/nxSTUxYXDGYE24TQ8",
+      "update_day": "П'ятниця",
+      "update_note": null,
+      "network": "EconomClass",
+      "lux_day": "Субота",
+      "lat": 50.28009067,
+      "lng": 28.65440197
     },
     {
       "id": 334,
@@ -779,8 +803,8 @@
       "maps_url": "https://maps.app.goo.gl/Jq6w3M8KVV1F1Ycb9",
       "update_day": "Понеділок",
       "update_note": null,
-      "network": null,
-      "lux_day": null,
+      "network": "EconomClass",
+      "lux_day": "Вівторок",
       "lat": 50.2536232,
       "lng": 28.6617811
     },
@@ -827,8 +851,8 @@
       "maps_url": "https://maps.app.goo.gl/ykK5dF8oHQ1ot8Fu9",
       "update_day": "П'ятниця",
       "update_note": null,
-      "network": null,
-      "lux_day": null,
+      "network": "EconomClass",
+      "lux_day": "Субота",
       "lat": 50.2791732,
       "lng": 28.6347117
     },
@@ -839,8 +863,8 @@
       "maps_url": "https://maps.app.goo.gl/dxs6N1fV8rh6NbfXA",
       "update_day": "Вівторок",
       "update_note": null,
-      "network": null,
-      "lux_day": null,
+      "network": "EconomClass",
+      "lux_day": "Середа",
       "lat": 50.2789298,
       "lng": 28.6318072
     }
@@ -1363,13 +1387,25 @@
       "lng": 30.4706162
     },
     {
+      "id": 469,
+      "address": "просп. Академіка Глушкова, 31A",
+      "city": "Київ",
+      "maps_url": "https://maps.app.goo.gl/DjhM8X31ybr6ES62A",
+      "update_day": "Субота",
+      "update_note": null,
+      "network": "EconomClass",
+      "lux_day": "Неділя",
+      "lat": 50.36611582,
+      "lng": 30.45362116
+    },
+    {
       "id": 129,
       "address": "просп. Академіка Палладіна, 23а",
       "city": "Київ",
       "maps_url": "https://maps.app.goo.gl/rx5Bpa7dX5RPTuVs5",
       "update_day": "П'ятниця",
       "update_note": null,
-      "network": null,
+      "network": "Super Секонд-Хенд",
       "lux_day": null,
       "lat": 50.4663199,
       "lng": 30.3545624
@@ -1409,18 +1445,6 @@
       "lux_day": null,
       "lat": 50.5121362,
       "lng": 30.412328
-    },
-    {
-      "id": 133,
-      "address": "просп. Голосіївський, 104",
-      "city": "Київ",
-      "maps_url": "https://maps.app.goo.gl/tDLENwYsEBr2kMUe7",
-      "update_day": "Понеділок",
-      "update_note": "раз на пʼять тижнів",
-      "network": null,
-      "lux_day": null,
-      "lat": 50.3888687,
-      "lng": 30.4958135
     },
     {
       "id": 134,
@@ -1543,18 +1567,6 @@
       "lng": 30.4357104
     },
     {
-      "id": 144,
-      "address": "просп. Перемоги, 89А",
-      "city": "Київ",
-      "maps_url": "https://maps.app.goo.gl/aySCTDAdCbVxu4pu6",
-      "update_day": "Понеділок",
-      "update_note": "раз на пʼять тижнів",
-      "network": null,
-      "lux_day": null,
-      "lat": 50.4567983,
-      "lng": 30.3848479
-    },
-    {
       "id": 145,
       "address": "просп. Петра Григоренка, 22/20",
       "city": "Київ",
@@ -1601,6 +1613,18 @@
       "lux_day": null,
       "lat": 50.4887129,
       "lng": 30.4952399
+    },
+    {
+      "id": 465,
+      "address": "Харківське шосе, 144А",
+      "city": "Київ",
+      "maps_url": "https://maps.app.goo.gl/fuNSHKrWKcF4a1Z96",
+      "update_day": "Середа",
+      "update_note": null,
+      "network": null,
+      "lux_day": null,
+      "lat": 50.42160861,
+      "lng": 30.64999488
     },
     {
       "id": 149,
@@ -1859,18 +1883,6 @@
       "lng": 25.3780126
     },
     {
-      "id": 317,
-      "address": "просп. Молоді, 4",
-      "city": "Луцьк",
-      "maps_url": "https://maps.app.goo.gl/RaijJiQAjxa7uLLaA",
-      "update_day": "Вівторок",
-      "update_note": null,
-      "network": null,
-      "lux_day": null,
-      "lat": 50.7621711,
-      "lng": 25.3731287
-    },
-    {
       "id": 322,
       "address": "просп. Молоді, 4",
       "city": "Луцьк",
@@ -1878,7 +1890,7 @@
       "update_day": "Вівторок",
       "update_note": null,
       "network": "EconomClass",
-      "lux_day": null,
+      "lux_day": "Вівторок",
       "lat": 50.762131,
       "lng": 25.3732262
     },
@@ -1979,6 +1991,18 @@
       "lux_day": null,
       "lat": 49.8399446,
       "lng": 24.0328996
+    },
+    {
+      "id": 464,
+      "address": "вул. Величковського, 30а",
+      "city": "Львів",
+      "maps_url": "https://maps.app.goo.gl/PhBPpAfLV2vP3BD98",
+      "update_day": null,
+      "update_note": "Без фіксованого дня оновлення",
+      "network": "Світ Секонд-Хенду",
+      "lux_day": null,
+      "lat": 49.87528607,
+      "lng": 23.93433456
     },
     {
       "id": 4,
@@ -2311,7 +2335,7 @@
       "maps_url": "https://goo.gl/maps/XNSf6ExSJUDG6bFX7",
       "update_day": "Четвер",
       "update_note": null,
-      "network": null,
+      "network": "Євро Тренд",
       "lux_day": null,
       "lat": 49.8041581,
       "lng": 23.9907647
@@ -2370,8 +2394,8 @@
       "city": "Львів",
       "maps_url": "https://maps.app.goo.gl/y4rXvqdFVApDnMn27",
       "update_day": null,
-      "update_note": "Оновлення рідко",
-      "network": null,
+      "update_note": "Без фіксованого дня оновлення",
+      "network": "КАЛАМБУР",
       "lux_day": null,
       "lat": 49.7973061,
       "lng": 24.0541017
@@ -2791,7 +2815,7 @@
       "maps_url": "https://maps.app.goo.gl/MUbXmGYbM3uXFee2A",
       "update_day": "П'ятниця",
       "update_note": null,
-      "network": null,
+      "network": "Євро Секонд Хенд",
       "lux_day": null,
       "lat": 49.7850531,
       "lng": 24.0604385
@@ -2815,22 +2839,10 @@
       "maps_url": "https://goo.gl/maps/kxDk72Wo4JJ2mjN99",
       "update_day": "Субота",
       "update_note": null,
-      "network": null,
+      "network": "Євро Секонд Хенд",
       "lux_day": null,
       "lat": 49.7910354,
       "lng": 24.0559005
-    },
-    {
-      "id": 49,
-      "address": "пр. Червоної Калини, 66А",
-      "city": "Львів",
-      "maps_url": "https://goo.gl/maps/tVJWcSsUedTQeWiXA",
-      "update_day": "Понеділок",
-      "update_note": null,
-      "network": null,
-      "lux_day": null,
-      "lat": 49.790731,
-      "lng": 24.0580887
     },
     {
       "id": 56,
@@ -3935,30 +3947,6 @@
       "lux_day": null,
       "lat": 49.543629,
       "lng": 25.6248697
-    },
-    {
-      "id": 166,
-      "address": "вул. Миру, 1",
-      "city": "Тернопіль",
-      "maps_url": "https://maps.app.goo.gl/U4FcKqYR6s4eYL8j6",
-      "update_day": "Понеділок",
-      "update_note": null,
-      "network": null,
-      "lux_day": null,
-      "lat": 49.5454621,
-      "lng": 25.5704962
-    },
-    {
-      "id": 157,
-      "address": "вул. Миру, 5",
-      "city": "Тернопіль",
-      "maps_url": "https://maps.app.goo.gl/3itiDTc55ZEysxsW8",
-      "update_day": "П'ятниця",
-      "update_note": null,
-      "network": null,
-      "lux_day": null,
-      "lat": 49.546098,
-      "lng": 25.5751747
     },
     {
       "id": 158,
@@ -5155,6 +5143,18 @@
       "lux_day": null,
       "lat": 49.4223348,
       "lng": 26.9962177
+    },
+    {
+      "id": 466,
+      "address": "вул. Шевченка, 70/1",
+      "city": "Хмельницький",
+      "maps_url": "https://maps.app.goo.gl/HxqXZjmLc4w1JNScA?g_st=ic",
+      "update_day": "Середа",
+      "update_note": null,
+      "network": "EconomClass",
+      "lux_day": "Четвер",
+      "lat": 49.41618059,
+      "lng": 27.0165939
     }
   ],
   "Черкаси": [
@@ -5499,6 +5499,30 @@
       "lux_day": null,
       "lat": 48.9186233,
       "lng": 24.7149
+    },
+    {
+      "id": 471,
+      "address": "вул. Василя Симоненка, 24б",
+      "city": "Івано-Франківськ",
+      "maps_url": "https://maps.app.goo.gl/ZX2tomga6NK9Ub3F7",
+      "update_day": "Четвер",
+      "update_note": null,
+      "network": "Країна Секонд-Хенд",
+      "lux_day": null,
+      "lat": 48.93830208,
+      "lng": 24.75035134
+    },
+    {
+      "id": 470,
+      "address": "вул. Василя Стуса, 28",
+      "city": "Івано-Франківськ",
+      "maps_url": "https://maps.app.goo.gl/3LCFad9vQEo3adRC8",
+      "update_day": "П'ятниця",
+      "update_note": null,
+      "network": null,
+      "lux_day": null,
+      "lat": 48.93327984,
+      "lng": 24.7484509
     },
     {
       "id": 79,
