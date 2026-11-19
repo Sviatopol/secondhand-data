@@ -901,7 +901,7 @@
       "maps_url": "https://maps.app.goo.gl/iCXwCvNk5EayfQEJ7",
       "update_day": "Субота",
       "update_note": null,
-      "network": null,
+      "network": "Баул",
       "lux_day": null,
       "lat": 50.465315,
       "lng": 30.354279
@@ -1093,7 +1093,7 @@
       "maps_url": "https://maps.app.goo.gl/762MSUFmpdXedZNx9",
       "update_day": "Вівторок",
       "update_note": null,
-      "network": null,
+      "network": "EconomClass",
       "lux_day": null,
       "lat": 50.4724621,
       "lng": 30.4055166
@@ -1105,7 +1105,7 @@
       "maps_url": "https://maps.app.goo.gl/XgUgH781DEHcBMrPA",
       "update_day": "П'ятниця",
       "update_note": null,
-      "network": null,
+      "network": "EconomClass",
       "lux_day": "Субота",
       "lat": 50.4708804,
       "lng": 30.406413
@@ -5095,6 +5095,18 @@
       "lux_day": null,
       "lat": 49.4172356,
       "lng": 27.0072947
+    },
+    {
+      "id": 472,
+      "address": "вул. Соборна, 12а",
+      "city": "Хмельницький",
+      "maps_url": "https://maps.app.goo.gl/9vguLwacj2ph9cXp8",
+      "update_day": "Субота",
+      "update_note": null,
+      "network": "EconomClass",
+      "lux_day": "Неділя",
+      "lat": 49.42939587,
+      "lng": 26.98181484
     },
     {
       "id": 347,
