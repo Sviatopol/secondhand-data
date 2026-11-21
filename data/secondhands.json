@@ -1159,18 +1159,6 @@
       "lng": 30.6395114
     },
     {
-      "id": 111,
-      "address": "вул. Михайла Ломоносова, 6",
-      "city": "Київ",
-      "maps_url": "https://maps.app.goo.gl/NUDXQ9FLiXj7i2Ky7",
-      "update_day": "П'ятниця",
-      "update_note": null,
-      "network": null,
-      "lux_day": null,
-      "lat": 50.3930846,
-      "lng": 30.5010328
-    },
-    {
       "id": 112,
       "address": "вул. Олександра Архипенка, 2/12",
       "city": "Київ",
