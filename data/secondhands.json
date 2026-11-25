@@ -821,6 +821,18 @@
       "lng": 28.659391
     },
     {
+      "id": 473,
+      "address": "вул. Хлібна, 23 (Молочний павільйон, 2 поверх)",
+      "city": "Житомир",
+      "maps_url": "https://maps.app.goo.gl/9ZpZYmaWudcMHsSX8",
+      "update_day": "Четвер",
+      "update_note": null,
+      "network": "Євро Секонд Хенд",
+      "lux_day": "П'ятниця",
+      "lat": 50.25790065,
+      "lng": 28.67323398
+    },
+    {
       "id": 327,
       "address": "вул. Івана Кочерги, 6",
       "city": "Житомир",
